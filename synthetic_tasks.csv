@@ -1,0 +1,101 @@
+task_id,task_text,category,priority,status,due_date
+1,Team sync-up,Documentation,Medium,In Progress,2025-07-06
+2,Team sync-up,Meeting,High,In Progress,2025-07-01
+3,Optimize database queries,Documentation,Low,Done,2025-06-28
+4,Refactor dashboard code,Bug,High,Done,2025-06-11
+5,Optimize database queries,Feature,Low,To Do,2025-07-01
+6,Optimize database queries,Meeting,High,In Progress,2025-07-02
+7,Write report on AI trends,Bug,Low,To Do,2025-06-09
+8,Implement search functionality,Bug,High,To Do,2025-06-28
+9,Design new logo,Documentation,Low,Done,2025-07-05
+10,Refactor dashboard code,Bug,High,To Do,2025-06-21
+11,Write report on AI trends,Bug,Medium,Done,2025-07-04
+12,Team sync-up,Research,Low,To Do,2025-07-02
+13,Fix login issue,Meeting,Medium,Done,2025-07-03
+14,Team sync-up,Bug,Low,Done,2025-07-04
+15,Team sync-up,Documentation,High,To Do,2025-06-27
+16,Test new release,Documentation,High,In Progress,2025-06-16
+17,Design new logo,Research,High,In Progress,2025-06-27
+18,Refactor dashboard code,Bug,Low,Done,2025-06-17
+19,Fix login issue,Documentation,High,In Progress,2025-07-04
+20,Update README file,Documentation,High,Done,2025-06-26
+21,Test new release,Bug,Low,To Do,2025-07-07
+22,Team sync-up,Documentation,Medium,In Progress,2025-06-19
+23,Prepare presentation,Bug,Medium,To Do,2025-07-02
+24,Refactor dashboard code,Bug,Low,In Progress,2025-06-24
+25,Design new logo,Research,Low,Done,2025-06-20
+26,Write report on AI trends,Bug,High,In Progress,2025-06-17
+27,Implement search functionality,Research,Medium,In Progress,2025-06-15
+28,Implement search functionality,Documentation,High,Done,2025-06-17
+29,Prepare presentation,Bug,High,To Do,2025-06-17
+30,Test new release,Research,Low,To Do,2025-07-07
+31,Team sync-up,Research,Medium,To Do,2025-06-26
+32,Team sync-up,Meeting,Medium,In Progress,2025-06-28
+33,Test new release,Research,Medium,In Progress,2025-06-20
+34,Update README file,Research,Medium,To Do,2025-06-10
+35,Design new logo,Feature,High,To Do,2025-06-29
+36,Refactor dashboard code,Research,Medium,To Do,2025-07-04
+37,Test new release,Meeting,Medium,Done,2025-06-08
+38,Write report on AI trends,Research,Low,To Do,2025-06-17
+39,Fix login issue,Feature,Medium,Done,2025-07-02
+40,Add analytics module,Research,Medium,In Progress,2025-07-06
+41,Fix login issue,Meeting,High,In Progress,2025-06-16
+42,Implement search functionality,Documentation,Medium,To Do,2025-06-26
+43,Prepare presentation,Feature,High,In Progress,2025-06-27
+44,Optimize database queries,Meeting,High,Done,2025-06-27
+45,Team sync-up,Bug,Low,Done,2025-06-17
+46,Update README file,Research,High,In Progress,2025-07-03
+47,Write report on AI trends,Documentation,High,To Do,2025-06-20
+48,Optimize database queries,Meeting,Low,Done,2025-07-07
+49,Update README file,Bug,Low,Done,2025-06-09
+50,Implement search functionality,Feature,High,In Progress,2025-06-21
+51,Team sync-up,Bug,High,Done,2025-07-05
+52,Design new logo,Bug,Medium,In Progress,2025-07-03
+53,Update README file,Documentation,High,Done,2025-06-17
+54,Team sync-up,Research,High,To Do,2025-06-13
+55,Test new release,Documentation,Medium,In Progress,2025-06-09
+56,Refactor dashboard code,Meeting,High,In Progress,2025-06-21
+57,Add analytics module,Feature,Low,In Progress,2025-06-15
+58,Update README file,Bug,Low,Done,2025-06-19
+59,Team sync-up,Documentation,Medium,Done,2025-06-18
+60,Prepare presentation,Meeting,High,In Progress,2025-06-21
+61,Fix login issue,Meeting,Low,To Do,2025-06-19
+62,Optimize database queries,Feature,High,Done,2025-06-22
+63,Add analytics module,Meeting,Medium,In Progress,2025-06-29
+64,Implement search functionality,Meeting,High,To Do,2025-07-02
+65,Refactor dashboard code,Documentation,Low,Done,2025-06-12
+66,Team sync-up,Bug,Medium,In Progress,2025-07-02
+67,Team sync-up,Meeting,High,Done,2025-06-23
+68,Implement search functionality,Bug,Medium,Done,2025-06-15
+69,Prepare presentation,Documentation,Low,To Do,2025-07-07
+70,Implement search functionality,Feature,Low,In Progress,2025-06-15
+71,Design new logo,Bug,Low,To Do,2025-07-04
+72,Update README file,Research,Low,To Do,2025-06-20
+73,Write report on AI trends,Documentation,Medium,Done,2025-07-01
+74,Write report on AI trends,Documentation,Medium,In Progress,2025-06-18
+75,Write report on AI trends,Meeting,Low,To Do,2025-06-15
+76,Optimize database queries,Research,Low,To Do,2025-06-19
+77,Update README file,Feature,High,In Progress,2025-06-21
+78,Write report on AI trends,Feature,High,In Progress,2025-06-21
+79,Refactor dashboard code,Bug,Low,Done,2025-06-22
+80,Design new logo,Bug,High,In Progress,2025-07-06
+81,Design new logo,Meeting,Medium,In Progress,2025-06-17
+82,Team sync-up,Feature,High,To Do,2025-06-20
+83,Implement search functionality,Bug,Low,Done,2025-06-11
+84,Fix login issue,Documentation,High,In Progress,2025-07-01
+85,Add analytics module,Bug,Medium,Done,2025-06-24
+86,Design new logo,Meeting,High,To Do,2025-07-01
+87,Fix login issue,Feature,Medium,To Do,2025-06-27
+88,Refactor dashboard code,Bug,High,To Do,2025-06-23
+89,Add analytics module,Bug,Low,To Do,2025-06-16
+90,Refactor dashboard code,Feature,High,Done,2025-06-29
+91,Add analytics module,Documentation,Low,Done,2025-06-18
+92,Design new logo,Meeting,High,Done,2025-06-27
+93,Optimize database queries,Bug,Medium,In Progress,2025-06-17
+94,Fix login issue,Feature,Low,To Do,2025-06-12
+95,Write report on AI trends,Meeting,Low,Done,2025-06-10
+96,Write report on AI trends,Documentation,High,In Progress,2025-06-28
+97,Update README file,Research,Low,In Progress,2025-06-22
+98,Prepare presentation,Bug,Low,To Do,2025-06-09
+99,Update README file,Bug,Medium,Done,2025-06-08
+100,Design new logo,Feature,High,To Do,2025-06-26
