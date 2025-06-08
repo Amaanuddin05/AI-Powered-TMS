@@ -1,0 +1,501 @@
+task_id,task_description,task_category,workload_hours,created_date,deadline,status,completed_date,priority
+1,Document setup process,Documentation,4.1,2025-05-27,2025-06-07,Done,2025-06-04,Low
+2,Setup client call,Meeting,7.8,2025-05-25,2025-06-07,In Progress,,Low
+3,Add user profile page,Feature,5.0,2025-05-22,2025-05-28,In Progress,,Low
+4,Write API docs,Documentation,8.1,2025-05-11,2025-05-24,Done,2025-05-22,Low
+5,Benchmark framework,Research,6.8,2025-05-03,2025-05-09,In Progress,,Low
+6,Prototype user dashboard,Design,1.6,2025-05-12,2025-05-24,To Do,,Low
+7,Write unit tests,Testing,7.2,2025-05-05,2025-05-19,Done,2025-05-16,Low
+8,Debug UI glitch,Bug Fix,7.8,2025-05-03,2025-05-12,Done,2025-05-09,Medium
+9,Push to production,Deployment,3.6,2025-05-22,2025-05-31,To Do,,Low
+10,Implement notifications,Feature,2.9,2025-05-16,2025-05-30,Done,2025-05-28,Low
+11,Prototype user dashboard,Design,6.8,2025-05-03,2025-05-14,To Do,,Low
+12,Write API docs,Documentation,7.0,2025-05-01,2025-05-06,To Do,,Low
+13,Document setup process,Documentation,3.2,2025-05-27,2025-05-31,In Progress,,Low
+14,Resolve crash bug,Bug Fix,6.3,2025-05-01,2025-05-13,Done,2025-05-13,Medium
+15,Deploy to staging,Deployment,9.3,2025-05-08,2025-05-15,Done,2025-05-15,Low
+16,Study competitor tools,Research,4.8,2025-05-02,2025-05-09,In Progress,,Low
+17,Schedule sprint planning,Meeting,3.5,2025-05-05,2025-05-08,To Do,,Low
+18,Update README,Documentation,8.6,2025-05-23,2025-05-25,To Do,,Medium
+19,Benchmark framework,Research,1.9,2025-05-06,2025-05-15,In Progress,,Low
+20,Implement notifications,Feature,8.2,2025-05-28,2025-06-07,To Do,,Medium
+21,Design homepage layout,Design,7.6,2025-05-29,2025-06-07,Done,2025-06-04,Low
+22,Study competitor tools,Research,4.1,2025-05-05,2025-05-14,Done,2025-05-14,Low
+23,Schedule sprint planning,Meeting,1.5,2025-05-27,2025-06-10,Done,2025-06-09,Low
+24,Push to production,Deployment,2.8,2025-05-04,2025-05-15,Done,2025-05-12,Low
+25,Schedule sprint planning,Meeting,7.6,2025-05-29,2025-06-09,Done,2025-06-08,Low
+26,Design homepage layout,Design,9.4,2025-05-18,2025-05-31,Done,2025-05-30,Low
+27,Push to production,Deployment,2.9,2025-05-25,2025-06-07,In Progress,,Low
+28,Debug UI glitch,Bug Fix,4.6,2025-05-02,2025-05-05,To Do,,Medium
+29,Benchmark framework,Research,3.3,2025-05-20,2025-05-25,In Progress,,Low
+30,Create logo,Design,2.2,2025-05-15,2025-05-27,In Progress,,Low
+31,Update README,Documentation,6.9,2025-05-30,2025-05-31,Done,2025-05-28,Medium
+32,Implement notifications,Feature,2.5,2025-05-05,2025-05-09,To Do,,Medium
+33,Add user profile page,Feature,8.6,2025-05-29,2025-06-09,To Do,,Medium
+34,Investigate new ML model,Research,4.3,2025-05-15,2025-05-23,Done,2025-05-20,Low
+35,Deploy to staging,Deployment,7.0,2025-05-05,2025-05-15,Done,2025-05-13,Low
+36,Benchmark framework,Research,4.2,2025-05-14,2025-05-20,Done,2025-05-17,Low
+37,Update README,Documentation,1.6,2025-05-19,2025-05-20,Done,2025-05-18,Low
+38,Update README,Documentation,5.1,2025-05-02,2025-05-10,In Progress,,Low
+39,Implement notifications,Feature,7.8,2025-05-29,2025-06-03,Done,2025-06-02,Medium
+40,Document setup process,Documentation,7.2,2025-05-31,2025-06-12,To Do,,Low
+41,Prototype user dashboard,Design,2.7,2025-05-01,2025-05-09,To Do,,Low
+42,Study competitor tools,Research,3.1,2025-05-21,2025-05-31,Done,2025-05-29,Low
+43,Update README,Documentation,9.7,2025-05-19,2025-05-23,To Do,,Medium
+44,Design homepage layout,Design,6.4,2025-05-28,2025-06-11,Done,2025-06-11,Low
+45,Setup client call,Meeting,1.0,2025-05-24,2025-06-05,In Progress,,Low
+46,Add user profile page,Feature,5.8,2025-05-31,2025-06-11,In Progress,,Medium
+47,Benchmark framework,Research,1.6,2025-05-02,2025-05-07,In Progress,,Low
+48,Benchmark framework,Research,5.6,2025-05-08,2025-05-14,In Progress,,Low
+49,Update README,Documentation,9.7,2025-05-25,2025-05-31,In Progress,,Low
+50,Conduct regression testing,Testing,6.2,2025-05-28,2025-06-09,In Progress,,Low
+51,Deploy to staging,Deployment,3.5,2025-05-16,2025-05-22,In Progress,,Low
+52,Prototype user dashboard,Design,8.6,2025-05-24,2025-05-27,Done,2025-05-24,Medium
+53,Update README,Documentation,7.5,2025-05-06,2025-05-11,To Do,,Low
+54,Design homepage layout,Design,9.3,2025-05-24,2025-06-07,Done,2025-06-05,Low
+55,Create logo,Design,2.9,2025-05-06,2025-05-14,Done,2025-05-11,Low
+56,Patch API error,Bug Fix,7.2,2025-05-31,2025-06-13,To Do,,Medium
+57,Fix login issue,Bug Fix,9.8,2025-05-26,2025-06-06,In Progress,,Medium
+58,Setup client call,Meeting,8.1,2025-05-21,2025-05-30,To Do,,Medium
+59,Prototype user dashboard,Design,1.2,2025-05-28,2025-06-06,To Do,,Low
+60,Setup client call,Meeting,3.2,2025-05-19,2025-05-28,In Progress,,Low
+61,Implement notifications,Feature,9.1,2025-05-01,2025-05-08,In Progress,,Medium
+62,Resolve crash bug,Bug Fix,8.8,2025-05-15,2025-05-17,Done,2025-05-15,High
+63,Study competitor tools,Research,8.6,2025-05-27,2025-06-09,To Do,,Low
+64,Investigate new ML model,Research,9.3,2025-05-05,2025-05-08,To Do,,Medium
+65,Study competitor tools,Research,9.1,2025-05-12,2025-05-21,To Do,,Low
+66,Push to production,Deployment,1.1,2025-05-07,2025-05-10,Done,2025-05-09,Low
+67,Document setup process,Documentation,2.5,2025-05-24,2025-06-06,Done,2025-06-04,Low
+68,Write unit tests,Testing,8.8,2025-05-30,2025-05-31,Done,2025-05-30,High
+69,Debug UI glitch,Bug Fix,5.6,2025-05-23,2025-05-24,Done,2025-05-21,High
+70,Add user profile page,Feature,1.5,2025-05-15,2025-05-29,To Do,,Low
+71,Resolve crash bug,Bug Fix,2.5,2025-05-17,2025-05-29,To Do,,Low
+72,Debug UI glitch,Bug Fix,5.3,2025-05-02,2025-05-07,Done,2025-05-07,Medium
+73,Prototype user dashboard,Design,6.1,2025-05-14,2025-05-15,Done,2025-05-14,Medium
+74,Investigate new ML model,Research,5.8,2025-05-17,2025-05-24,In Progress,,Low
+75,Conduct regression testing,Testing,4.6,2025-05-04,2025-05-05,In Progress,,Medium
+76,Develop search functionality,Feature,3.7,2025-05-13,2025-05-16,Done,2025-05-14,Medium
+77,Debug UI glitch,Bug Fix,1.5,2025-05-15,2025-05-26,In Progress,,Low
+78,Deploy to staging,Deployment,5.1,2025-05-02,2025-05-11,To Do,,Low
+79,Benchmark framework,Research,5.2,2025-05-17,2025-05-29,Done,2025-05-26,Low
+80,Push to production,Deployment,5.4,2025-05-05,2025-05-12,In Progress,,Low
+81,Update README,Documentation,9.6,2025-05-22,2025-05-28,In Progress,,Low
+82,Write API docs,Documentation,4.5,2025-05-14,2025-05-19,To Do,,Low
+83,Resolve crash bug,Bug Fix,1.0,2025-05-15,2025-05-20,Done,2025-05-19,Medium
+84,Update README,Documentation,2.6,2025-05-14,2025-05-16,To Do,,Low
+85,Implement notifications,Feature,8.9,2025-05-14,2025-05-22,Done,2025-05-19,Medium
+86,Debug UI glitch,Bug Fix,3.3,2025-05-23,2025-05-29,In Progress,,Low
+87,Organize team sync,Meeting,1.6,2025-05-27,2025-06-01,Done,2025-06-01,Low
+88,Create logo,Design,2.2,2025-05-08,2025-05-15,In Progress,,Low
+89,Deploy to staging,Deployment,7.2,2025-05-19,2025-05-26,To Do,,Low
+90,Create logo,Design,2.4,2025-05-17,2025-05-20,Done,2025-05-20,Low
+91,Design homepage layout,Design,8.4,2025-05-18,2025-05-25,Done,2025-05-22,Low
+92,Automate CI/CD pipeline,Deployment,6.6,2025-05-07,2025-05-12,To Do,,Low
+93,Schedule sprint planning,Meeting,6.2,2025-05-24,2025-06-06,In Progress,,Low
+94,Benchmark framework,Research,3.4,2025-05-29,2025-06-04,To Do,,Low
+95,Implement notifications,Feature,6.4,2025-05-23,2025-05-25,In Progress,,High
+96,Investigate new ML model,Research,6.2,2025-05-22,2025-06-03,Done,2025-06-01,Low
+97,Design homepage layout,Design,7.7,2025-05-03,2025-05-12,Done,2025-05-12,Low
+98,Implement notifications,Feature,8.0,2025-05-01,2025-05-03,In Progress,,High
+99,Implement notifications,Feature,8.2,2025-05-08,2025-05-20,In Progress,,Medium
+100,Document setup process,Documentation,7.5,2025-05-24,2025-05-27,To Do,,Low
+101,Automate CI/CD pipeline,Deployment,7.8,2025-05-07,2025-05-19,In Progress,,Low
+102,Debug UI glitch,Bug Fix,3.8,2025-05-21,2025-05-26,Done,2025-05-24,Medium
+103,Patch API error,Bug Fix,5.7,2025-05-20,2025-06-01,Done,2025-05-29,Medium
+104,Benchmark framework,Research,8.3,2025-05-30,2025-06-09,Done,2025-06-08,Low
+105,Setup client call,Meeting,8.0,2025-05-08,2025-05-11,Done,2025-05-09,Medium
+106,Schedule sprint planning,Meeting,7.0,2025-05-28,2025-06-08,To Do,,Low
+107,Schedule sprint planning,Meeting,3.3,2025-05-17,2025-05-30,In Progress,,Low
+108,Perform usability testing,Testing,9.8,2025-05-26,2025-06-04,Done,2025-06-03,Medium
+109,Investigate new ML model,Research,2.2,2025-05-15,2025-05-21,Done,2025-05-21,Low
+110,Benchmark framework,Research,5.7,2025-05-10,2025-05-20,Done,2025-05-18,Low
+111,Automate CI/CD pipeline,Deployment,1.8,2025-05-31,2025-06-04,Done,2025-06-02,Low
+112,Fix login issue,Bug Fix,6.5,2025-05-11,2025-05-14,In Progress,,Medium
+113,Implement notifications,Feature,5.7,2025-05-07,2025-05-18,In Progress,,Medium
+114,Design homepage layout,Design,9.5,2025-05-19,2025-05-30,In Progress,,Low
+115,Perform usability testing,Testing,3.8,2025-05-01,2025-05-03,Done,2025-05-02,Medium
+116,Organize team sync,Meeting,3.5,2025-05-25,2025-05-28,Done,2025-05-28,Low
+117,Automate CI/CD pipeline,Deployment,9.0,2025-05-06,2025-05-15,Done,2025-05-13,Low
+118,Update README,Documentation,2.3,2025-05-21,2025-05-22,In Progress,,Low
+119,Fix login issue,Bug Fix,5.3,2025-05-30,2025-05-31,To Do,,High
+120,Perform usability testing,Testing,1.2,2025-05-06,2025-05-13,To Do,,Low
+121,Patch API error,Bug Fix,5.1,2025-05-09,2025-05-12,Done,2025-05-12,Medium
+122,Fix login issue,Bug Fix,6.5,2025-05-08,2025-05-21,To Do,,Medium
+123,Schedule sprint planning,Meeting,3.2,2025-05-02,2025-05-07,In Progress,,Low
+124,Setup client call,Meeting,4.1,2025-05-07,2025-05-11,To Do,,Low
+125,Investigate new ML model,Research,3.3,2025-05-12,2025-05-15,Done,2025-05-14,Low
+126,Setup client call,Meeting,5.3,2025-05-23,2025-06-06,Done,2025-06-03,Low
+127,Conduct regression testing,Testing,1.1,2025-05-26,2025-06-09,To Do,,Low
+128,Schedule sprint planning,Meeting,5.5,2025-05-29,2025-06-08,To Do,,Low
+129,Create logo,Design,1.7,2025-05-06,2025-05-08,Done,2025-05-07,Low
+130,Study competitor tools,Research,2.3,2025-05-27,2025-06-07,In Progress,,Low
+131,Setup client call,Meeting,3.8,2025-05-23,2025-05-25,To Do,,Medium
+132,Design homepage layout,Design,1.5,2025-05-18,2025-06-01,Done,2025-05-31,Low
+133,Design homepage layout,Design,6.1,2025-05-16,2025-05-27,In Progress,,Low
+134,Deploy to staging,Deployment,2.8,2025-05-07,2025-05-17,To Do,,Low
+135,Study competitor tools,Research,9.7,2025-05-09,2025-05-22,In Progress,,Low
+136,Update README,Documentation,6.8,2025-05-05,2025-05-09,In Progress,,Low
+137,Automate CI/CD pipeline,Deployment,2.8,2025-05-28,2025-06-07,Done,2025-06-07,Low
+138,Debug UI glitch,Bug Fix,5.4,2025-05-08,2025-05-21,Done,2025-05-18,Medium
+139,Setup client call,Meeting,1.3,2025-05-08,2025-05-15,In Progress,,Low
+140,Develop search functionality,Feature,8.0,2025-05-09,2025-05-14,To Do,,Medium
+141,Push to production,Deployment,7.2,2025-05-21,2025-05-31,In Progress,,Low
+142,Deploy to staging,Deployment,8.5,2025-05-06,2025-05-08,Done,2025-05-07,Medium
+143,Design homepage layout,Design,4.9,2025-05-28,2025-06-01,Done,2025-06-01,Low
+144,Create logo,Design,9.5,2025-05-09,2025-05-16,Done,2025-05-16,Low
+145,Develop search functionality,Feature,7.3,2025-05-27,2025-06-09,To Do,,Medium
+146,Deploy to staging,Deployment,6.2,2025-05-30,2025-06-13,In Progress,,Low
+147,Add user profile page,Feature,8.2,2025-05-11,2025-05-13,Done,2025-05-12,High
+148,Document setup process,Documentation,8.7,2025-05-02,2025-05-07,Done,2025-05-06,Medium
+149,Design homepage layout,Design,6.1,2025-05-10,2025-05-21,In Progress,,Low
+150,Write unit tests,Testing,8.8,2025-05-04,2025-05-08,To Do,,Medium
+151,Automate CI/CD pipeline,Deployment,2.8,2025-05-18,2025-05-25,Done,2025-05-23,Low
+152,Implement notifications,Feature,7.7,2025-05-06,2025-05-15,Done,2025-05-13,Medium
+153,Push to production,Deployment,8.2,2025-05-04,2025-05-12,Done,2025-05-11,Low
+154,Debug UI glitch,Bug Fix,7.6,2025-05-07,2025-05-18,Done,2025-05-17,Medium
+155,Implement notifications,Feature,7.4,2025-05-25,2025-05-29,Done,2025-05-27,Medium
+156,Resolve crash bug,Bug Fix,2.0,2025-05-18,2025-05-30,To Do,,Low
+157,Study competitor tools,Research,8.7,2025-05-26,2025-06-02,To Do,,Low
+158,Write API docs,Documentation,6.4,2025-05-24,2025-06-07,To Do,,Low
+159,Design homepage layout,Design,8.7,2025-05-28,2025-06-09,Done,2025-06-07,Low
+160,Conduct regression testing,Testing,7.1,2025-05-24,2025-06-06,Done,2025-06-06,Low
+161,Benchmark framework,Research,2.3,2025-05-15,2025-05-19,In Progress,,Low
+162,Push to production,Deployment,5.4,2025-05-29,2025-06-08,In Progress,,Low
+163,Debug UI glitch,Bug Fix,9.2,2025-05-31,2025-06-13,To Do,,Medium
+164,Automate CI/CD pipeline,Deployment,3.2,2025-05-10,2025-05-13,In Progress,,Low
+165,Develop search functionality,Feature,3.4,2025-05-30,2025-06-08,To Do,,Low
+166,Perform usability testing,Testing,1.3,2025-05-25,2025-05-26,Done,2025-05-24,Medium
+167,Deploy to staging,Deployment,4.8,2025-05-12,2025-05-21,In Progress,,Low
+168,Debug UI glitch,Bug Fix,2.2,2025-05-11,2025-05-18,To Do,,Low
+169,Develop search functionality,Feature,2.2,2025-05-13,2025-05-19,Done,2025-05-17,Low
+170,Update README,Documentation,6.8,2025-05-05,2025-05-18,Done,2025-05-16,Low
+171,Push to production,Deployment,2.5,2025-05-04,2025-05-08,Done,2025-05-07,Low
+172,Investigate new ML model,Research,2.4,2025-05-27,2025-05-28,Done,2025-05-27,Low
+173,Implement notifications,Feature,7.6,2025-05-18,2025-05-20,In Progress,,High
+174,Study competitor tools,Research,9.7,2025-05-09,2025-05-21,In Progress,,Low
+175,Prototype user dashboard,Design,4.2,2025-05-16,2025-05-28,To Do,,Low
+176,Prototype user dashboard,Design,8.5,2025-05-23,2025-06-03,In Progress,,Low
+177,Investigate new ML model,Research,3.0,2025-05-04,2025-05-16,In Progress,,Low
+178,Automate CI/CD pipeline,Deployment,3.6,2025-05-25,2025-05-28,To Do,,Low
+179,Resolve crash bug,Bug Fix,5.9,2025-05-21,2025-06-02,In Progress,,Medium
+180,Resolve crash bug,Bug Fix,2.7,2025-05-20,2025-06-01,In Progress,,Low
+181,Write API docs,Documentation,7.3,2025-05-15,2025-05-16,In Progress,,Medium
+182,Design homepage layout,Design,2.3,2025-05-06,2025-05-17,To Do,,Low
+183,Fix login issue,Bug Fix,6.3,2025-05-04,2025-05-10,To Do,,Medium
+184,Patch API error,Bug Fix,2.4,2025-05-13,2025-05-23,Done,2025-05-20,Low
+185,Design homepage layout,Design,5.3,2025-05-22,2025-06-01,Done,2025-05-30,Low
+186,Debug UI glitch,Bug Fix,7.7,2025-05-09,2025-05-19,To Do,,Medium
+187,Implement notifications,Feature,6.9,2025-05-30,2025-06-11,In Progress,,Medium
+188,Deploy to staging,Deployment,9.9,2025-05-09,2025-05-15,In Progress,,Low
+189,Benchmark framework,Research,8.1,2025-05-20,2025-05-29,Done,2025-05-26,Low
+190,Develop search functionality,Feature,2.6,2025-05-30,2025-06-01,In Progress,,Medium
+191,Prototype user dashboard,Design,3.3,2025-05-24,2025-06-07,Done,2025-06-06,Low
+192,Setup client call,Meeting,6.7,2025-05-28,2025-06-08,To Do,,Low
+193,Investigate new ML model,Research,1.7,2025-05-07,2025-05-21,Done,2025-05-18,Low
+194,Document setup process,Documentation,6.4,2025-05-21,2025-05-30,In Progress,,Low
+195,Write unit tests,Testing,3.6,2025-05-19,2025-05-24,To Do,,Low
+196,Perform usability testing,Testing,8.6,2025-05-30,2025-06-04,In Progress,,Medium
+197,Conduct regression testing,Testing,2.4,2025-05-24,2025-06-03,Done,2025-06-01,Low
+198,Create logo,Design,6.1,2025-05-25,2025-06-06,Done,2025-06-05,Low
+199,Document setup process,Documentation,9.5,2025-05-09,2025-05-15,In Progress,,Low
+200,Investigate new ML model,Research,6.2,2025-05-23,2025-06-05,In Progress,,Low
+201,Add user profile page,Feature,3.3,2025-05-30,2025-06-12,In Progress,,Low
+202,Study competitor tools,Research,1.4,2025-05-30,2025-05-31,Done,2025-05-31,Low
+203,Prototype user dashboard,Design,7.9,2025-05-03,2025-05-04,To Do,,Medium
+204,Push to production,Deployment,7.3,2025-05-10,2025-05-18,Done,2025-05-16,Low
+205,Investigate new ML model,Research,5.7,2025-05-29,2025-06-02,To Do,,Low
+206,Push to production,Deployment,1.4,2025-05-13,2025-05-15,In Progress,,Low
+207,Investigate new ML model,Research,1.6,2025-05-07,2025-05-12,In Progress,,Low
+208,Schedule sprint planning,Meeting,3.1,2025-05-06,2025-05-16,In Progress,,Low
+209,Add user profile page,Feature,1.4,2025-05-25,2025-06-07,In Progress,,Low
+210,Create logo,Design,2.3,2025-05-04,2025-05-15,Done,2025-05-14,Low
+211,Automate CI/CD pipeline,Deployment,4.2,2025-05-03,2025-05-13,In Progress,,Low
+212,Document setup process,Documentation,5.2,2025-05-16,2025-05-26,To Do,,Low
+213,Implement notifications,Feature,9.2,2025-05-19,2025-05-28,In Progress,,Medium
+214,Write unit tests,Testing,4.8,2025-05-28,2025-05-30,Done,2025-05-29,Medium
+215,Debug UI glitch,Bug Fix,5.6,2025-05-20,2025-05-21,In Progress,,High
+216,Investigate new ML model,Research,8.0,2025-05-07,2025-05-17,Done,2025-05-14,Low
+217,Document setup process,Documentation,2.4,2025-05-14,2025-05-20,To Do,,Low
+218,Add user profile page,Feature,6.0,2025-05-09,2025-05-19,To Do,,Medium
+219,Prototype user dashboard,Design,4.0,2025-05-25,2025-05-27,To Do,,Low
+220,Implement notifications,Feature,2.4,2025-05-29,2025-06-06,In Progress,,Low
+221,Write API docs,Documentation,1.8,2025-05-22,2025-06-04,Done,2025-06-02,Low
+222,Conduct regression testing,Testing,8.7,2025-05-27,2025-06-05,To Do,,Medium
+223,Conduct regression testing,Testing,5.0,2025-05-13,2025-05-26,Done,2025-05-25,Low
+224,Benchmark framework,Research,8.6,2025-05-26,2025-06-04,In Progress,,Low
+225,Update README,Documentation,2.1,2025-05-23,2025-05-25,Done,2025-05-25,Low
+226,Fix login issue,Bug Fix,8.2,2025-05-03,2025-05-15,To Do,,Medium
+227,Investigate new ML model,Research,6.6,2025-05-05,2025-05-13,In Progress,,Low
+228,Setup client call,Meeting,7.3,2025-05-20,2025-05-21,Done,2025-05-20,Medium
+229,Setup client call,Meeting,1.8,2025-05-14,2025-05-27,To Do,,Low
+230,Benchmark framework,Research,8.5,2025-05-05,2025-05-13,In Progress,,Low
+231,Automate CI/CD pipeline,Deployment,7.2,2025-05-06,2025-05-14,In Progress,,Low
+232,Resolve crash bug,Bug Fix,2.8,2025-05-26,2025-05-28,In Progress,,Medium
+233,Investigate new ML model,Research,10.0,2025-05-08,2025-05-10,To Do,,Medium
+234,Write API docs,Documentation,4.5,2025-05-17,2025-05-18,To Do,,Low
+235,Conduct regression testing,Testing,4.1,2025-05-03,2025-05-10,In Progress,,Low
+236,Add user profile page,Feature,4.1,2025-05-13,2025-05-23,To Do,,Low
+237,Update README,Documentation,4.7,2025-05-21,2025-05-30,Done,2025-05-28,Low
+238,Investigate new ML model,Research,8.3,2025-05-13,2025-05-27,In Progress,,Low
+239,Organize team sync,Meeting,3.6,2025-05-10,2025-05-14,To Do,,Low
+240,Update README,Documentation,9.3,2025-05-05,2025-05-13,In Progress,,Low
+241,Create logo,Design,6.9,2025-05-02,2025-05-11,In Progress,,Low
+242,Organize team sync,Meeting,2.1,2025-05-20,2025-05-25,To Do,,Low
+243,Document setup process,Documentation,7.5,2025-05-16,2025-05-17,In Progress,,Medium
+244,Design homepage layout,Design,8.3,2025-05-16,2025-05-22,Done,2025-05-22,Low
+245,Fix login issue,Bug Fix,5.9,2025-05-18,2025-05-29,In Progress,,Medium
+246,Implement notifications,Feature,6.9,2025-05-14,2025-05-18,Done,2025-05-15,Medium
+247,Resolve crash bug,Bug Fix,5.2,2025-05-17,2025-05-29,Done,2025-05-27,Medium
+248,Investigate new ML model,Research,7.3,2025-05-22,2025-06-05,In Progress,,Low
+249,Patch API error,Bug Fix,7.5,2025-05-11,2025-05-17,Done,2025-05-14,Medium
+250,Update README,Documentation,7.6,2025-05-22,2025-06-01,Done,2025-05-31,Low
+251,Document setup process,Documentation,1.4,2025-05-21,2025-05-28,Done,2025-05-27,Low
+252,Resolve crash bug,Bug Fix,6.6,2025-05-24,2025-06-07,In Progress,,Medium
+253,Fix login issue,Bug Fix,7.2,2025-05-01,2025-05-13,In Progress,,Medium
+254,Study competitor tools,Research,7.1,2025-05-18,2025-05-25,In Progress,,Low
+255,Setup client call,Meeting,7.8,2025-05-24,2025-05-30,To Do,,Low
+256,Develop search functionality,Feature,9.9,2025-05-24,2025-06-07,To Do,,Medium
+257,Deploy to staging,Deployment,9.1,2025-05-24,2025-06-05,In Progress,,Low
+258,Push to production,Deployment,7.2,2025-05-30,2025-06-13,To Do,,Low
+259,Create logo,Design,6.6,2025-05-06,2025-05-10,In Progress,,Low
+260,Perform usability testing,Testing,1.7,2025-05-28,2025-06-10,Done,2025-06-09,Low
+261,Conduct regression testing,Testing,1.1,2025-05-21,2025-05-30,Done,2025-05-30,Low
+262,Patch API error,Bug Fix,6.4,2025-05-18,2025-05-30,In Progress,,Medium
+263,Organize team sync,Meeting,5.8,2025-05-24,2025-05-31,In Progress,,Low
+264,Write API docs,Documentation,5.7,2025-05-16,2025-05-18,To Do,,Medium
+265,Write API docs,Documentation,8.8,2025-05-01,2025-05-11,Done,2025-05-10,Low
+266,Develop search functionality,Feature,6.2,2025-05-03,2025-05-15,To Do,,Medium
+267,Design homepage layout,Design,3.3,2025-05-12,2025-05-16,Done,2025-05-13,Low
+268,Setup client call,Meeting,4.0,2025-05-25,2025-06-08,In Progress,,Low
+269,Document setup process,Documentation,5.2,2025-05-09,2025-05-17,Done,2025-05-17,Low
+270,Write API docs,Documentation,6.1,2025-05-26,2025-05-29,Done,2025-05-29,Low
+271,Study competitor tools,Research,2.4,2025-05-01,2025-05-14,Done,2025-05-13,Low
+272,Implement notifications,Feature,2.0,2025-05-04,2025-05-11,To Do,,Low
+273,Resolve crash bug,Bug Fix,5.6,2025-05-31,2025-06-05,To Do,,Medium
+274,Setup client call,Meeting,1.0,2025-05-24,2025-06-01,Done,2025-05-30,Low
+275,Investigate new ML model,Research,8.7,2025-05-03,2025-05-13,Done,2025-05-10,Low
+276,Schedule sprint planning,Meeting,6.2,2025-05-04,2025-05-05,In Progress,,Medium
+277,Prototype user dashboard,Design,7.2,2025-05-12,2025-05-15,Done,2025-05-14,Low
+278,Benchmark framework,Research,8.7,2025-05-07,2025-05-21,In Progress,,Low
+279,Write API docs,Documentation,2.4,2025-05-24,2025-05-28,In Progress,,Low
+280,Setup client call,Meeting,2.1,2025-05-03,2025-05-15,To Do,,Low
+281,Write unit tests,Testing,8.6,2025-05-18,2025-06-01,In Progress,,Medium
+282,Prototype user dashboard,Design,8.8,2025-05-23,2025-06-06,To Do,,Low
+283,Debug UI glitch,Bug Fix,4.3,2025-05-02,2025-05-08,Done,2025-05-06,Low
+284,Design homepage layout,Design,3.3,2025-05-14,2025-05-21,Done,2025-05-18,Low
+285,Add user profile page,Feature,1.2,2025-05-27,2025-05-31,To Do,,Medium
+286,Write unit tests,Testing,6.0,2025-05-15,2025-05-23,To Do,,Low
+287,Write API docs,Documentation,5.3,2025-05-09,2025-05-12,Done,2025-05-10,Low
+288,Write API docs,Documentation,8.1,2025-05-27,2025-06-05,Done,2025-06-02,Low
+289,Perform usability testing,Testing,5.1,2025-05-26,2025-05-30,Done,2025-05-28,Medium
+290,Study competitor tools,Research,3.4,2025-05-06,2025-05-08,To Do,,Low
+291,Patch API error,Bug Fix,1.0,2025-05-29,2025-06-08,In Progress,,Low
+292,Patch API error,Bug Fix,8.5,2025-05-18,2025-05-20,Done,2025-05-19,High
+293,Resolve crash bug,Bug Fix,6.2,2025-05-12,2025-05-17,Done,2025-05-14,Medium
+294,Add user profile page,Feature,6.8,2025-05-29,2025-06-08,In Progress,,Medium
+295,Deploy to staging,Deployment,10.0,2025-05-18,2025-05-28,In Progress,,Low
+296,Organize team sync,Meeting,3.4,2025-05-18,2025-05-24,In Progress,,Low
+297,Write unit tests,Testing,1.1,2025-05-13,2025-05-18,To Do,,Low
+298,Resolve crash bug,Bug Fix,7.4,2025-05-24,2025-06-01,In Progress,,Medium
+299,Conduct regression testing,Testing,9.9,2025-05-04,2025-05-05,In Progress,,High
+300,Patch API error,Bug Fix,2.0,2025-05-10,2025-05-18,Done,2025-05-18,Low
+301,Conduct regression testing,Testing,2.5,2025-05-08,2025-05-15,To Do,,Low
+302,Develop search functionality,Feature,3.0,2025-05-05,2025-05-13,Done,2025-05-11,Low
+303,Setup client call,Meeting,6.0,2025-05-28,2025-06-03,To Do,,Low
+304,Add user profile page,Feature,5.4,2025-05-27,2025-06-10,In Progress,,Medium
+305,Implement notifications,Feature,3.1,2025-05-25,2025-06-08,Done,2025-06-07,Low
+306,Setup client call,Meeting,6.9,2025-05-19,2025-05-28,To Do,,Low
+307,Write API docs,Documentation,9.2,2025-05-12,2025-05-25,Done,2025-05-22,Low
+308,Implement notifications,Feature,4.4,2025-05-06,2025-05-10,In Progress,,Medium
+309,Push to production,Deployment,6.7,2025-05-17,2025-05-27,In Progress,,Low
+310,Deploy to staging,Deployment,4.0,2025-05-02,2025-05-12,In Progress,,Low
+311,Document setup process,Documentation,5.9,2025-05-30,2025-06-09,Done,2025-06-09,Low
+312,Develop search functionality,Feature,9.6,2025-05-31,2025-06-10,In Progress,,Medium
+313,Schedule sprint planning,Meeting,6.5,2025-05-18,2025-05-22,In Progress,,Medium
+314,Patch API error,Bug Fix,9.6,2025-05-10,2025-05-15,Done,2025-05-12,High
+315,Write API docs,Documentation,3.4,2025-05-13,2025-05-22,Done,2025-05-22,Low
+316,Organize team sync,Meeting,1.8,2025-05-06,2025-05-07,To Do,,Medium
+317,Deploy to staging,Deployment,6.2,2025-05-14,2025-05-16,Done,2025-05-15,Medium
+318,Perform usability testing,Testing,4.6,2025-05-28,2025-06-09,Done,2025-06-08,Low
+319,Conduct regression testing,Testing,3.7,2025-05-13,2025-05-24,Done,2025-05-24,Low
+320,Implement notifications,Feature,3.5,2025-05-05,2025-05-07,In Progress,,Medium
+321,Study competitor tools,Research,2.0,2025-05-25,2025-06-07,Done,2025-06-04,Low
+322,Study competitor tools,Research,2.4,2025-05-28,2025-06-11,Done,2025-06-09,Low
+323,Prototype user dashboard,Design,7.0,2025-05-30,2025-06-13,Done,2025-06-13,Low
+324,Perform usability testing,Testing,5.5,2025-05-06,2025-05-13,Done,2025-05-11,Low
+325,Push to production,Deployment,5.6,2025-05-13,2025-05-24,Done,2025-05-22,Low
+326,Develop search functionality,Feature,3.6,2025-05-20,2025-05-30,In Progress,,Low
+327,Fix login issue,Bug Fix,4.9,2025-05-21,2025-05-29,To Do,,Low
+328,Perform usability testing,Testing,9.0,2025-05-31,2025-06-05,Done,2025-06-04,Medium
+329,Perform usability testing,Testing,3.5,2025-05-22,2025-05-23,Done,2025-05-22,Medium
+330,Design homepage layout,Design,7.7,2025-05-11,2025-05-15,In Progress,,Low
+331,Setup client call,Meeting,3.5,2025-05-14,2025-05-19,Done,2025-05-16,Low
+332,Fix login issue,Bug Fix,6.3,2025-05-10,2025-05-14,In Progress,,Medium
+333,Create logo,Design,8.3,2025-05-24,2025-06-06,Done,2025-06-06,Low
+334,Patch API error,Bug Fix,6.9,2025-05-21,2025-06-02,To Do,,Medium
+335,Design homepage layout,Design,3.8,2025-05-01,2025-05-08,In Progress,,Low
+336,Fix login issue,Bug Fix,4.0,2025-05-14,2025-05-25,To Do,,Low
+337,Perform usability testing,Testing,3.8,2025-05-24,2025-06-06,Done,2025-06-05,Low
+338,Schedule sprint planning,Meeting,2.1,2025-05-10,2025-05-11,In Progress,,Medium
+339,Debug UI glitch,Bug Fix,7.2,2025-05-14,2025-05-23,To Do,,Medium
+340,Automate CI/CD pipeline,Deployment,9.4,2025-05-30,2025-06-09,To Do,,Low
+341,Perform usability testing,Testing,7.5,2025-05-09,2025-05-13,In Progress,,Medium
+342,Fix login issue,Bug Fix,2.6,2025-05-12,2025-05-24,In Progress,,Low
+343,Setup client call,Meeting,5.5,2025-05-28,2025-06-06,Done,2025-06-05,Low
+344,Setup client call,Meeting,4.7,2025-05-14,2025-05-27,Done,2025-05-26,Low
+345,Resolve crash bug,Bug Fix,8.0,2025-05-18,2025-05-27,To Do,,Medium
+346,Document setup process,Documentation,8.0,2025-05-29,2025-05-30,To Do,,Medium
+347,Update README,Documentation,5.2,2025-05-24,2025-06-02,In Progress,,Low
+348,Write API docs,Documentation,8.3,2025-05-07,2025-05-17,In Progress,,Low
+349,Perform usability testing,Testing,5.7,2025-05-24,2025-06-05,In Progress,,Low
+350,Deploy to staging,Deployment,6.4,2025-05-15,2025-05-16,To Do,,Medium
+351,Deploy to staging,Deployment,3.7,2025-05-15,2025-05-28,To Do,,Low
+352,Develop search functionality,Feature,8.5,2025-05-07,2025-05-21,In Progress,,Medium
+353,Fix login issue,Bug Fix,2.4,2025-05-31,2025-06-10,To Do,,Low
+354,Conduct regression testing,Testing,9.3,2025-05-03,2025-05-16,To Do,,Medium
+355,Study competitor tools,Research,2.0,2025-05-21,2025-06-01,Done,2025-05-29,Low
+356,Perform usability testing,Testing,7.3,2025-05-21,2025-06-03,Done,2025-05-31,Low
+357,Resolve crash bug,Bug Fix,6.7,2025-05-22,2025-05-30,Done,2025-05-30,Medium
+358,Add user profile page,Feature,3.8,2025-05-05,2025-05-09,Done,2025-05-09,Medium
+359,Prototype user dashboard,Design,5.4,2025-05-10,2025-05-12,Done,2025-05-11,Medium
+360,Develop search functionality,Feature,6.9,2025-05-04,2025-05-16,To Do,,Medium
+361,Write unit tests,Testing,9.2,2025-05-29,2025-05-31,To Do,,High
+362,Write unit tests,Testing,8.9,2025-05-16,2025-05-24,Done,2025-05-24,Medium
+363,Deploy to staging,Deployment,9.3,2025-05-04,2025-05-16,Done,2025-05-14,Low
+364,Benchmark framework,Research,2.5,2025-05-19,2025-06-02,Done,2025-05-30,Low
+365,Design homepage layout,Design,3.7,2025-05-03,2025-05-15,To Do,,Low
+366,Conduct regression testing,Testing,6.0,2025-05-10,2025-05-17,In Progress,,Low
+367,Write API docs,Documentation,8.0,2025-05-13,2025-05-18,In Progress,,Low
+368,Automate CI/CD pipeline,Deployment,3.6,2025-05-19,2025-05-31,To Do,,Low
+369,Conduct regression testing,Testing,8.6,2025-05-29,2025-06-10,Done,2025-06-08,Medium
+370,Implement notifications,Feature,7.5,2025-05-21,2025-05-27,Done,2025-05-25,Medium
+371,Resolve crash bug,Bug Fix,4.3,2025-05-28,2025-06-11,Done,2025-06-08,Low
+372,Schedule sprint planning,Meeting,3.8,2025-05-02,2025-05-12,Done,2025-05-10,Low
+373,Perform usability testing,Testing,9.1,2025-05-24,2025-06-07,To Do,,Medium
+374,Deploy to staging,Deployment,8.0,2025-05-03,2025-05-16,In Progress,,Low
+375,Add user profile page,Feature,7.3,2025-05-21,2025-06-02,Done,2025-05-31,Medium
+376,Automate CI/CD pipeline,Deployment,6.0,2025-05-30,2025-06-09,Done,2025-06-07,Low
+377,Add user profile page,Feature,9.0,2025-05-11,2025-05-19,Done,2025-05-17,Medium
+378,Setup client call,Meeting,7.5,2025-05-01,2025-05-09,To Do,,Low
+379,Study competitor tools,Research,1.3,2025-05-04,2025-05-17,In Progress,,Low
+380,Investigate new ML model,Research,3.5,2025-05-27,2025-06-06,To Do,,Low
+381,Push to production,Deployment,9.7,2025-05-10,2025-05-17,To Do,,Low
+382,Add user profile page,Feature,6.8,2025-05-14,2025-05-19,In Progress,,Medium
+383,Perform usability testing,Testing,1.7,2025-05-23,2025-05-31,To Do,,Low
+384,Benchmark framework,Research,3.9,2025-05-06,2025-05-10,Done,2025-05-07,Low
+385,Write unit tests,Testing,6.0,2025-05-19,2025-06-01,Done,2025-05-31,Low
+386,Update README,Documentation,6.4,2025-05-23,2025-06-02,In Progress,,Low
+387,Deploy to staging,Deployment,3.6,2025-05-16,2025-05-24,Done,2025-05-21,Low
+388,Resolve crash bug,Bug Fix,4.4,2025-05-05,2025-05-16,In Progress,,Low
+389,Debug UI glitch,Bug Fix,9.2,2025-05-28,2025-05-30,Done,2025-05-30,High
+390,Setup client call,Meeting,8.7,2025-05-14,2025-05-24,In Progress,,Medium
+391,Create logo,Design,5.6,2025-05-15,2025-05-26,Done,2025-05-26,Low
+392,Write unit tests,Testing,1.0,2025-05-10,2025-05-21,In Progress,,Low
+393,Schedule sprint planning,Meeting,3.5,2025-05-28,2025-06-07,Done,2025-06-07,Low
+394,Investigate new ML model,Research,8.2,2025-05-13,2025-05-21,In Progress,,Low
+395,Prototype user dashboard,Design,5.6,2025-05-08,2025-05-16,Done,2025-05-14,Low
+396,Conduct regression testing,Testing,3.1,2025-05-10,2025-05-15,Done,2025-05-13,Low
+397,Automate CI/CD pipeline,Deployment,2.7,2025-05-13,2025-05-25,Done,2025-05-25,Low
+398,Automate CI/CD pipeline,Deployment,2.0,2025-05-04,2025-05-10,To Do,,Low
+399,Conduct regression testing,Testing,8.5,2025-05-28,2025-06-01,In Progress,,Medium
+400,Investigate new ML model,Research,5.3,2025-05-13,2025-05-26,In Progress,,Low
+401,Implement notifications,Feature,1.1,2025-05-16,2025-05-28,Done,2025-05-28,Low
+402,Resolve crash bug,Bug Fix,2.2,2025-05-31,2025-06-05,Done,2025-06-03,Medium
+403,Update README,Documentation,7.4,2025-05-10,2025-05-20,To Do,,Low
+404,Document setup process,Documentation,3.2,2025-05-03,2025-05-10,In Progress,,Low
+405,Study competitor tools,Research,2.9,2025-05-21,2025-05-31,In Progress,,Low
+406,Conduct regression testing,Testing,3.8,2025-05-14,2025-05-15,Done,2025-05-15,Medium
+407,Fix login issue,Bug Fix,5.0,2025-05-13,2025-05-21,In Progress,,Low
+408,Organize team sync,Meeting,3.7,2025-05-31,2025-06-04,Done,2025-06-03,Low
+409,Implement notifications,Feature,4.8,2025-05-28,2025-06-11,Done,2025-06-10,Low
+410,Document setup process,Documentation,1.6,2025-05-10,2025-05-14,Done,2025-05-11,Low
+411,Fix login issue,Bug Fix,4.5,2025-05-30,2025-06-04,In Progress,,Medium
+412,Create logo,Design,9.7,2025-05-30,2025-06-04,Done,2025-06-01,Medium
+413,Benchmark framework,Research,3.0,2025-05-15,2025-05-16,In Progress,,Low
+414,Deploy to staging,Deployment,7.3,2025-05-07,2025-05-18,To Do,,Low
+415,Benchmark framework,Research,6.5,2025-05-14,2025-05-18,To Do,,Low
+416,Deploy to staging,Deployment,3.2,2025-05-26,2025-06-04,Done,2025-06-03,Low
+417,Deploy to staging,Deployment,4.3,2025-05-20,2025-05-23,Done,2025-05-22,Low
+418,Design homepage layout,Design,9.0,2025-05-04,2025-05-09,In Progress,,Medium
+419,Schedule sprint planning,Meeting,5.6,2025-05-29,2025-06-02,Done,2025-06-01,Medium
+420,Design homepage layout,Design,4.1,2025-05-30,2025-06-05,Done,2025-06-03,Low
+421,Write API docs,Documentation,5.2,2025-05-01,2025-05-14,Done,2025-05-11,Low
+422,Create logo,Design,1.7,2025-05-23,2025-05-27,To Do,,Low
+423,Conduct regression testing,Testing,6.3,2025-05-22,2025-06-05,To Do,,Low
+424,Push to production,Deployment,9.3,2025-05-07,2025-05-11,To Do,,Medium
+425,Study competitor tools,Research,8.0,2025-05-21,2025-06-03,Done,2025-06-01,Low
+426,Update README,Documentation,3.4,2025-05-12,2025-05-16,Done,2025-05-13,Low
+427,Deploy to staging,Deployment,2.0,2025-05-31,2025-06-09,To Do,,Low
+428,Schedule sprint planning,Meeting,3.3,2025-05-16,2025-05-17,Done,2025-05-15,Medium
+429,Setup client call,Meeting,4.3,2025-05-03,2025-05-04,To Do,,Medium
+430,Fix login issue,Bug Fix,1.0,2025-05-25,2025-06-03,To Do,,Low
+431,Prototype user dashboard,Design,8.1,2025-05-23,2025-06-02,Done,2025-05-31,Low
+432,Conduct regression testing,Testing,4.7,2025-05-27,2025-06-04,Done,2025-06-03,Low
+433,Deploy to staging,Deployment,2.5,2025-05-23,2025-05-27,To Do,,Low
+434,Study competitor tools,Research,3.1,2025-05-18,2025-05-27,To Do,,Low
+435,Patch API error,Bug Fix,4.5,2025-05-21,2025-05-24,To Do,,Medium
+436,Organize team sync,Meeting,7.1,2025-05-21,2025-05-24,Done,2025-05-24,Medium
+437,Implement notifications,Feature,7.5,2025-05-28,2025-05-31,Done,2025-05-28,Medium
+438,Benchmark framework,Research,8.1,2025-05-30,2025-06-06,To Do,,Low
+439,Benchmark framework,Research,1.6,2025-05-26,2025-06-04,In Progress,,Low
+440,Study competitor tools,Research,8.3,2025-05-19,2025-05-28,Done,2025-05-27,Low
+441,Push to production,Deployment,6.8,2025-05-31,2025-06-07,To Do,,Low
+442,Fix login issue,Bug Fix,7.7,2025-05-08,2025-05-12,In Progress,,Medium
+443,Setup client call,Meeting,6.5,2025-05-18,2025-05-29,In Progress,,Low
+444,Update README,Documentation,8.0,2025-05-25,2025-06-06,Done,2025-06-05,Low
+445,Resolve crash bug,Bug Fix,8.7,2025-05-23,2025-05-28,To Do,,High
+446,Fix login issue,Bug Fix,8.9,2025-05-24,2025-05-31,In Progress,,Medium
+447,Resolve crash bug,Bug Fix,3.1,2025-05-14,2025-05-26,Done,2025-05-25,Low
+448,Schedule sprint planning,Meeting,6.6,2025-05-07,2025-05-08,Done,2025-05-06,Medium
+449,Perform usability testing,Testing,3.0,2025-05-23,2025-06-06,In Progress,,Low
+450,Schedule sprint planning,Meeting,4.4,2025-05-13,2025-05-17,Done,2025-05-17,Low
+451,Conduct regression testing,Testing,8.4,2025-05-27,2025-05-29,Done,2025-05-26,High
+452,Perform usability testing,Testing,1.9,2025-05-05,2025-05-13,Done,2025-05-12,Low
+453,Organize team sync,Meeting,4.6,2025-05-16,2025-05-18,In Progress,,Medium
+454,Schedule sprint planning,Meeting,8.8,2025-05-29,2025-05-30,In Progress,,High
+455,Create logo,Design,6.2,2025-05-08,2025-05-13,Done,2025-05-13,Low
+456,Prototype user dashboard,Design,2.0,2025-05-13,2025-05-20,In Progress,,Low
+457,Fix login issue,Bug Fix,3.8,2025-05-27,2025-06-07,Done,2025-06-07,Low
+458,Organize team sync,Meeting,9.4,2025-05-21,2025-05-25,Done,2025-05-24,Medium
+459,Benchmark framework,Research,2.5,2025-05-26,2025-05-30,To Do,,Low
+460,Push to production,Deployment,3.1,2025-05-30,2025-06-10,Done,2025-06-07,Low
+461,Debug UI glitch,Bug Fix,4.8,2025-05-12,2025-05-13,To Do,,Medium
+462,Setup client call,Meeting,1.9,2025-05-17,2025-05-28,Done,2025-05-27,Low
+463,Patch API error,Bug Fix,6.4,2025-05-10,2025-05-24,In Progress,,Medium
+464,Deploy to staging,Deployment,1.8,2025-05-23,2025-06-02,In Progress,,Low
+465,Debug UI glitch,Bug Fix,1.8,2025-05-27,2025-06-09,Done,2025-06-06,Low
+466,Conduct regression testing,Testing,9.0,2025-05-26,2025-06-06,Done,2025-06-06,Medium
+467,Prototype user dashboard,Design,8.4,2025-05-15,2025-05-24,In Progress,,Low
+468,Document setup process,Documentation,1.3,2025-05-16,2025-05-17,In Progress,,Low
+469,Debug UI glitch,Bug Fix,1.7,2025-05-05,2025-05-09,Done,2025-05-07,Medium
+470,Setup client call,Meeting,1.9,2025-05-22,2025-05-28,To Do,,Low
+471,Implement notifications,Feature,7.5,2025-05-22,2025-05-27,In Progress,,Medium
+472,Document setup process,Documentation,2.2,2025-05-19,2025-05-22,To Do,,Low
+473,Push to production,Deployment,5.5,2025-05-25,2025-06-05,To Do,,Low
+474,Patch API error,Bug Fix,1.1,2025-05-10,2025-05-19,To Do,,Low
+475,Design homepage layout,Design,1.5,2025-05-18,2025-05-31,Done,2025-05-28,Low
+476,Prototype user dashboard,Design,2.1,2025-05-11,2025-05-15,Done,2025-05-14,Low
+477,Conduct regression testing,Testing,7.1,2025-05-10,2025-05-13,Done,2025-05-12,Medium
+478,Organize team sync,Meeting,5.3,2025-05-17,2025-05-21,In Progress,,Medium
+479,Design homepage layout,Design,3.2,2025-05-07,2025-05-20,Done,2025-05-17,Low
+480,Document setup process,Documentation,1.8,2025-05-02,2025-05-12,Done,2025-05-10,Low
+481,Deploy to staging,Deployment,9.1,2025-05-26,2025-06-07,In Progress,,Low
+482,Write unit tests,Testing,3.0,2025-05-05,2025-05-17,Done,2025-05-16,Low
+483,Design homepage layout,Design,8.6,2025-05-23,2025-06-05,In Progress,,Low
+484,Setup client call,Meeting,3.5,2025-05-23,2025-05-28,Done,2025-05-27,Low
+485,Perform usability testing,Testing,7.2,2025-05-29,2025-06-10,To Do,,Low
+486,Document setup process,Documentation,4.7,2025-05-28,2025-06-02,To Do,,Low
+487,Create logo,Design,2.6,2025-05-24,2025-06-04,Done,2025-06-03,Low
+488,Investigate new ML model,Research,9.2,2025-05-04,2025-05-15,To Do,,Low
+489,Deploy to staging,Deployment,5.0,2025-05-01,2025-05-09,To Do,,Low
+490,Organize team sync,Meeting,8.8,2025-05-09,2025-05-13,Done,2025-05-11,Medium
+491,Conduct regression testing,Testing,7.6,2025-05-24,2025-06-02,Done,2025-06-02,Low
+492,Add user profile page,Feature,3.0,2025-05-20,2025-05-22,To Do,,Medium
+493,Study competitor tools,Research,6.7,2025-05-27,2025-06-05,Done,2025-06-05,Low
+494,Study competitor tools,Research,2.3,2025-05-07,2025-05-21,Done,2025-05-19,Low
+495,Investigate new ML model,Research,1.0,2025-05-09,2025-05-20,In Progress,,Low
+496,Write API docs,Documentation,7.6,2025-05-27,2025-05-29,To Do,,Medium
+497,Write API docs,Documentation,6.7,2025-05-05,2025-05-09,Done,2025-05-06,Low
+498,Perform usability testing,Testing,7.5,2025-05-30,2025-06-13,Done,2025-06-10,Low
+499,Conduct regression testing,Testing,1.4,2025-05-31,2025-06-03,To Do,,Low
+500,Conduct regression testing,Testing,9.1,2025-05-29,2025-06-03,Done,2025-06-01,Medium
