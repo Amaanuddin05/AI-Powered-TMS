@@ -1,0 +1,501 @@
+task_id,task_text,category,priority,status,due_date
+1,UI glitch in menu,Bug,Low,To Do,2025-06-26
+2,Fix login issue,Bug,High,To Do,2025-06-29
+3,Null pointer error,Bug,Medium,To Do,2025-06-28
+4,Resolve payment bug,Bug,Low,In Progress,2025-07-03
+5,Crash on launch,Bug,Medium,In Progress,2025-06-26
+6,Fix login issue,Bug,Low,To Do,2025-06-17
+7,Null pointer error,Bug,Medium,To Do,2025-06-19
+8,Fix login issue,Bug,High,Done,2025-06-30
+9,Null pointer error,Bug,Medium,To Do,2025-06-30
+10,UI glitch in menu,Bug,High,Done,2025-06-20
+11,Crash on launch,Bug,High,In Progress,2025-06-13
+12,Crash on launch,Bug,High,To Do,2025-07-02
+13,UI glitch in menu,Bug,Low,In Progress,2025-07-06
+14,Crash on launch,Bug,Low,Done,2025-06-30
+15,Resolve payment bug,Bug,High,Done,2025-07-01
+16,UI glitch in menu,Bug,Low,To Do,2025-06-23
+17,Fix login issue,Bug,High,To Do,2025-07-08
+18,UI glitch in menu,Bug,Medium,Done,2025-06-13
+19,Null pointer error,Bug,Medium,Done,2025-07-10
+20,UI glitch in menu,Bug,High,In Progress,2025-06-14
+21,UI glitch in menu,Bug,Low,In Progress,2025-07-01
+22,Null pointer error,Bug,High,Done,2025-07-09
+23,UI glitch in menu,Bug,High,Done,2025-06-29
+24,UI glitch in menu,Bug,High,Done,2025-06-19
+25,Resolve payment bug,Bug,Low,To Do,2025-06-13
+26,Null pointer error,Bug,Medium,Done,2025-07-02
+27,UI glitch in menu,Bug,Low,To Do,2025-06-18
+28,Null pointer error,Bug,Low,Done,2025-06-29
+29,Fix login issue,Bug,Low,To Do,2025-07-11
+30,Crash on launch,Bug,High,Done,2025-07-03
+31,Crash on launch,Bug,Low,Done,2025-07-04
+32,Fix login issue,Bug,Low,In Progress,2025-07-08
+33,Crash on launch,Bug,Low,In Progress,2025-06-26
+34,Crash on launch,Bug,Low,To Do,2025-06-22
+35,UI glitch in menu,Bug,Low,To Do,2025-06-22
+36,Null pointer error,Bug,Low,Done,2025-07-09
+37,Resolve payment bug,Bug,Medium,To Do,2025-06-12
+38,Null pointer error,Bug,High,Done,2025-07-07
+39,Null pointer error,Bug,Medium,In Progress,2025-06-28
+40,Crash on launch,Bug,Medium,In Progress,2025-07-07
+41,Resolve payment bug,Bug,High,To Do,2025-06-27
+42,Fix login issue,Bug,High,Done,2025-07-08
+43,Fix login issue,Bug,High,Done,2025-06-17
+44,Null pointer error,Bug,High,To Do,2025-07-04
+45,Fix login issue,Bug,Medium,To Do,2025-06-26
+46,UI glitch in menu,Bug,Low,To Do,2025-06-26
+47,Null pointer error,Bug,Low,To Do,2025-07-04
+48,Crash on launch,Bug,High,Done,2025-06-12
+49,Null pointer error,Bug,High,To Do,2025-06-13
+50,Fix login issue,Bug,Low,In Progress,2025-07-04
+51,UI glitch in menu,Bug,High,To Do,2025-06-17
+52,Null pointer error,Bug,Medium,To Do,2025-06-13
+53,UI glitch in menu,Bug,High,Done,2025-06-13
+54,Crash on launch,Bug,Low,In Progress,2025-06-18
+55,Crash on launch,Bug,Medium,In Progress,2025-07-09
+56,Null pointer error,Bug,Low,Done,2025-06-26
+57,Crash on launch,Bug,High,Done,2025-06-29
+58,Fix login issue,Bug,Medium,To Do,2025-06-16
+59,Fix login issue,Bug,High,In Progress,2025-07-06
+60,Resolve payment bug,Bug,High,In Progress,2025-06-25
+61,Crash on launch,Bug,High,To Do,2025-06-23
+62,Null pointer error,Bug,Low,In Progress,2025-07-06
+63,UI glitch in menu,Bug,Low,In Progress,2025-06-14
+64,Resolve payment bug,Bug,Medium,In Progress,2025-07-03
+65,Resolve payment bug,Bug,Medium,To Do,2025-07-04
+66,Crash on launch,Bug,Medium,Done,2025-07-10
+67,Resolve payment bug,Bug,Low,Done,2025-07-08
+68,UI glitch in menu,Bug,Medium,In Progress,2025-06-14
+69,Null pointer error,Bug,High,Done,2025-07-08
+70,Resolve payment bug,Bug,High,In Progress,2025-06-20
+71,Fix login issue,Bug,Medium,To Do,2025-06-18
+72,Crash on launch,Bug,Medium,Done,2025-06-29
+73,Resolve payment bug,Bug,Medium,In Progress,2025-07-07
+74,UI glitch in menu,Bug,High,Done,2025-06-15
+75,Crash on launch,Bug,Medium,In Progress,2025-06-13
+76,Null pointer error,Bug,Medium,In Progress,2025-06-14
+77,UI glitch in menu,Bug,Low,Done,2025-06-29
+78,Fix login issue,Bug,Low,Done,2025-06-15
+79,Resolve payment bug,Bug,Low,To Do,2025-07-08
+80,Fix login issue,Bug,High,Done,2025-07-10
+81,Crash on launch,Bug,Low,In Progress,2025-06-25
+82,Fix login issue,Bug,High,In Progress,2025-06-17
+83,Null pointer error,Bug,Medium,In Progress,2025-06-29
+84,Null pointer error,Bug,High,To Do,2025-06-14
+85,Crash on launch,Bug,Low,In Progress,2025-06-27
+86,Resolve payment bug,Bug,Low,Done,2025-06-18
+87,Crash on launch,Bug,High,To Do,2025-07-10
+88,Fix login issue,Bug,Low,To Do,2025-06-20
+89,Resolve payment bug,Bug,High,In Progress,2025-07-05
+90,UI glitch in menu,Bug,High,To Do,2025-06-18
+91,Null pointer error,Bug,Low,To Do,2025-06-28
+92,Crash on launch,Bug,Medium,Done,2025-06-28
+93,UI glitch in menu,Bug,Low,In Progress,2025-06-18
+94,Null pointer error,Bug,Medium,To Do,2025-06-24
+95,Crash on launch,Bug,High,To Do,2025-07-06
+96,Resolve payment bug,Bug,Medium,Done,2025-06-15
+97,Crash on launch,Bug,High,In Progress,2025-07-10
+98,Crash on launch,Bug,Medium,In Progress,2025-06-13
+99,Fix login issue,Bug,Medium,Done,2025-06-26
+100,Fix login issue,Bug,Medium,Done,2025-07-10
+101,Implement search filter,Feature,High,In Progress,2025-07-04
+102,Build notification system,Feature,Medium,To Do,2025-06-23
+103,Build notification system,Feature,Medium,In Progress,2025-07-11
+104,Implement search filter,Feature,High,Done,2025-06-29
+105,Build notification system,Feature,High,In Progress,2025-06-24
+106,Integrate chat module,Feature,High,In Progress,2025-07-06
+107,Implement search filter,Feature,Medium,To Do,2025-07-06
+108,Integrate chat module,Feature,High,In Progress,2025-06-12
+109,Build notification system,Feature,High,To Do,2025-07-02
+110,Add dark mode,Feature,Low,Done,2025-06-18
+111,Implement search filter,Feature,Medium,In Progress,2025-06-20
+112,Implement search filter,Feature,Low,In Progress,2025-06-26
+113,Add dark mode,Feature,Low,To Do,2025-06-25
+114,Build notification system,Feature,Medium,In Progress,2025-07-07
+115,Add dark mode,Feature,Medium,To Do,2025-06-18
+116,Build notification system,Feature,Medium,To Do,2025-06-29
+117,Implement search filter,Feature,High,In Progress,2025-06-29
+118,Integrate chat module,Feature,High,Done,2025-06-15
+119,Build notification system,Feature,Medium,To Do,2025-06-19
+120,Integrate chat module,Feature,High,Done,2025-07-05
+121,Build notification system,Feature,Medium,To Do,2025-06-15
+122,Build notification system,Feature,Low,In Progress,2025-06-21
+123,Add dark mode,Feature,Low,Done,2025-06-21
+124,Build notification system,Feature,High,Done,2025-06-18
+125,Implement search filter,Feature,High,In Progress,2025-06-25
+126,Add dark mode,Feature,High,To Do,2025-06-13
+127,Integrate chat module,Feature,High,Done,2025-06-30
+128,Build notification system,Feature,Low,In Progress,2025-06-13
+129,Build notification system,Feature,High,In Progress,2025-07-06
+130,Add dark mode,Feature,High,To Do,2025-06-27
+131,Implement search filter,Feature,High,In Progress,2025-06-19
+132,Build notification system,Feature,Medium,To Do,2025-06-18
+133,Implement search filter,Feature,High,In Progress,2025-07-01
+134,Add dark mode,Feature,Low,In Progress,2025-07-10
+135,Integrate chat module,Feature,Low,In Progress,2025-07-05
+136,Implement search filter,Feature,Medium,In Progress,2025-06-28
+137,Integrate chat module,Feature,High,To Do,2025-06-22
+138,Add dark mode,Feature,Medium,To Do,2025-06-21
+139,Add dark mode,Feature,High,Done,2025-07-05
+140,Build notification system,Feature,High,To Do,2025-07-07
+141,Integrate chat module,Feature,High,In Progress,2025-07-02
+142,Integrate chat module,Feature,Low,In Progress,2025-06-24
+143,Build notification system,Feature,High,To Do,2025-07-11
+144,Build notification system,Feature,Medium,Done,2025-06-25
+145,Integrate chat module,Feature,Low,Done,2025-07-11
+146,Build notification system,Feature,Low,In Progress,2025-06-27
+147,Add dark mode,Feature,Medium,Done,2025-06-16
+148,Build notification system,Feature,Low,To Do,2025-07-06
+149,Implement search filter,Feature,Medium,In Progress,2025-06-21
+150,Implement search filter,Feature,Low,In Progress,2025-07-10
+151,Implement search filter,Feature,High,Done,2025-06-30
+152,Build notification system,Feature,Medium,To Do,2025-06-20
+153,Build notification system,Feature,Medium,In Progress,2025-06-26
+154,Implement search filter,Feature,Low,Done,2025-06-18
+155,Add dark mode,Feature,Low,In Progress,2025-07-08
+156,Implement search filter,Feature,High,Done,2025-06-12
+157,Implement search filter,Feature,Medium,To Do,2025-06-30
+158,Build notification system,Feature,Medium,Done,2025-06-14
+159,Build notification system,Feature,Medium,To Do,2025-06-13
+160,Integrate chat module,Feature,Medium,In Progress,2025-07-05
+161,Implement search filter,Feature,Low,In Progress,2025-07-10
+162,Add dark mode,Feature,High,To Do,2025-06-14
+163,Implement search filter,Feature,High,To Do,2025-07-06
+164,Integrate chat module,Feature,Medium,Done,2025-07-09
+165,Integrate chat module,Feature,Medium,Done,2025-07-11
+166,Implement search filter,Feature,Medium,Done,2025-06-23
+167,Add dark mode,Feature,High,In Progress,2025-06-18
+168,Implement search filter,Feature,High,Done,2025-07-03
+169,Build notification system,Feature,Low,Done,2025-07-02
+170,Add dark mode,Feature,Low,To Do,2025-07-11
+171,Add dark mode,Feature,High,To Do,2025-06-20
+172,Add dark mode,Feature,Low,In Progress,2025-06-22
+173,Add dark mode,Feature,High,To Do,2025-06-24
+174,Build notification system,Feature,Low,To Do,2025-06-19
+175,Add dark mode,Feature,Low,To Do,2025-07-08
+176,Implement search filter,Feature,High,Done,2025-07-08
+177,Implement search filter,Feature,Low,In Progress,2025-06-23
+178,Build notification system,Feature,Medium,In Progress,2025-06-14
+179,Build notification system,Feature,Low,To Do,2025-07-11
+180,Add dark mode,Feature,Low,In Progress,2025-07-03
+181,Add dark mode,Feature,Low,Done,2025-06-20
+182,Integrate chat module,Feature,Low,Done,2025-07-01
+183,Integrate chat module,Feature,High,In Progress,2025-07-02
+184,Build notification system,Feature,Low,To Do,2025-06-14
+185,Integrate chat module,Feature,High,In Progress,2025-07-07
+186,Build notification system,Feature,Low,In Progress,2025-06-30
+187,Build notification system,Feature,Medium,Done,2025-06-13
+188,Add dark mode,Feature,High,To Do,2025-07-08
+189,Add dark mode,Feature,Low,In Progress,2025-07-11
+190,Add dark mode,Feature,Medium,In Progress,2025-06-12
+191,Implement search filter,Feature,Low,Done,2025-07-01
+192,Integrate chat module,Feature,High,Done,2025-07-01
+193,Integrate chat module,Feature,Low,Done,2025-06-26
+194,Implement search filter,Feature,Medium,To Do,2025-07-05
+195,Integrate chat module,Feature,Medium,In Progress,2025-06-13
+196,Build notification system,Feature,Low,In Progress,2025-06-28
+197,Implement search filter,Feature,Low,To Do,2025-06-23
+198,Build notification system,Feature,High,Done,2025-06-30
+199,Implement search filter,Feature,Medium,Done,2025-06-23
+200,Build notification system,Feature,Medium,To Do,2025-06-22
+201,Document new features,Documentation,Low,To Do,2025-07-05
+202,Document new features,Documentation,Medium,To Do,2025-07-02
+203,Document new features,Documentation,High,Done,2025-06-18
+204,Write README,Documentation,Low,To Do,2025-06-15
+205,Write README,Documentation,Medium,To Do,2025-06-12
+206,Update user manual,Documentation,Low,In Progress,2025-06-17
+207,Update user manual,Documentation,High,To Do,2025-06-24
+208,Update user manual,Documentation,High,To Do,2025-06-21
+209,Update user manual,Documentation,High,Done,2025-07-04
+210,Document new features,Documentation,High,In Progress,2025-06-19
+211,Document new features,Documentation,Low,To Do,2025-06-24
+212,Improve API docs,Documentation,Low,To Do,2025-06-27
+213,Improve API docs,Documentation,Medium,In Progress,2025-06-25
+214,Improve API docs,Documentation,Medium,Done,2025-06-21
+215,Update user manual,Documentation,Low,To Do,2025-07-08
+216,Document new features,Documentation,Medium,To Do,2025-06-19
+217,Write README,Documentation,Low,Done,2025-07-07
+218,Document new features,Documentation,Medium,In Progress,2025-06-13
+219,Update user manual,Documentation,Medium,To Do,2025-06-20
+220,Document new features,Documentation,Medium,In Progress,2025-06-30
+221,Document new features,Documentation,Medium,Done,2025-06-20
+222,Write README,Documentation,High,To Do,2025-06-29
+223,Document new features,Documentation,High,Done,2025-06-12
+224,Write README,Documentation,Medium,In Progress,2025-07-02
+225,Improve API docs,Documentation,High,To Do,2025-06-12
+226,Document new features,Documentation,High,In Progress,2025-06-21
+227,Update user manual,Documentation,Medium,Done,2025-06-13
+228,Write README,Documentation,High,To Do,2025-06-29
+229,Write README,Documentation,Medium,In Progress,2025-06-15
+230,Document new features,Documentation,Medium,In Progress,2025-06-29
+231,Update user manual,Documentation,High,Done,2025-07-06
+232,Improve API docs,Documentation,High,In Progress,2025-06-14
+233,Document new features,Documentation,Low,To Do,2025-06-15
+234,Document new features,Documentation,High,Done,2025-06-25
+235,Improve API docs,Documentation,High,To Do,2025-06-15
+236,Update user manual,Documentation,High,In Progress,2025-06-30
+237,Document new features,Documentation,Medium,Done,2025-06-21
+238,Update user manual,Documentation,Low,To Do,2025-07-01
+239,Improve API docs,Documentation,Low,To Do,2025-06-23
+240,Improve API docs,Documentation,High,In Progress,2025-07-06
+241,Update user manual,Documentation,Medium,Done,2025-06-25
+242,Update user manual,Documentation,High,Done,2025-06-18
+243,Update user manual,Documentation,High,Done,2025-06-13
+244,Update user manual,Documentation,High,Done,2025-06-20
+245,Write README,Documentation,High,Done,2025-06-20
+246,Improve API docs,Documentation,Low,To Do,2025-06-13
+247,Improve API docs,Documentation,High,In Progress,2025-06-29
+248,Write README,Documentation,Medium,To Do,2025-06-20
+249,Document new features,Documentation,High,To Do,2025-06-21
+250,Document new features,Documentation,High,To Do,2025-07-06
+251,Improve API docs,Documentation,Low,In Progress,2025-07-11
+252,Update user manual,Documentation,High,To Do,2025-06-30
+253,Write README,Documentation,Medium,Done,2025-07-11
+254,Document new features,Documentation,Medium,In Progress,2025-07-11
+255,Update user manual,Documentation,Medium,In Progress,2025-06-25
+256,Update user manual,Documentation,High,To Do,2025-06-15
+257,Write README,Documentation,Low,To Do,2025-06-25
+258,Update user manual,Documentation,Medium,In Progress,2025-07-03
+259,Update user manual,Documentation,Medium,In Progress,2025-07-05
+260,Write README,Documentation,High,In Progress,2025-07-01
+261,Update user manual,Documentation,Low,To Do,2025-06-28
+262,Update user manual,Documentation,High,In Progress,2025-06-22
+263,Write README,Documentation,High,To Do,2025-07-11
+264,Document new features,Documentation,Low,Done,2025-06-16
+265,Document new features,Documentation,Medium,In Progress,2025-06-20
+266,Improve API docs,Documentation,High,Done,2025-06-20
+267,Document new features,Documentation,High,In Progress,2025-06-21
+268,Update user manual,Documentation,Medium,Done,2025-06-14
+269,Update user manual,Documentation,Medium,Done,2025-07-07
+270,Write README,Documentation,Medium,Done,2025-06-28
+271,Improve API docs,Documentation,High,In Progress,2025-07-09
+272,Document new features,Documentation,High,To Do,2025-07-05
+273,Write README,Documentation,High,Done,2025-06-21
+274,Improve API docs,Documentation,High,In Progress,2025-06-22
+275,Document new features,Documentation,Low,To Do,2025-07-06
+276,Document new features,Documentation,Medium,Done,2025-06-18
+277,Write README,Documentation,Low,In Progress,2025-06-18
+278,Document new features,Documentation,High,In Progress,2025-07-11
+279,Improve API docs,Documentation,Low,To Do,2025-06-15
+280,Update user manual,Documentation,Medium,To Do,2025-07-01
+281,Improve API docs,Documentation,Low,In Progress,2025-06-26
+282,Document new features,Documentation,Low,Done,2025-07-09
+283,Write README,Documentation,High,To Do,2025-06-17
+284,Improve API docs,Documentation,Medium,In Progress,2025-06-18
+285,Improve API docs,Documentation,High,Done,2025-07-07
+286,Write README,Documentation,Low,Done,2025-06-15
+287,Update user manual,Documentation,Low,To Do,2025-06-15
+288,Write README,Documentation,Low,Done,2025-07-09
+289,Document new features,Documentation,Low,To Do,2025-06-21
+290,Document new features,Documentation,High,In Progress,2025-06-26
+291,Update user manual,Documentation,Medium,In Progress,2025-06-13
+292,Document new features,Documentation,Low,To Do,2025-07-03
+293,Document new features,Documentation,High,Done,2025-06-13
+294,Write README,Documentation,High,Done,2025-07-10
+295,Document new features,Documentation,Low,To Do,2025-07-10
+296,Document new features,Documentation,Low,In Progress,2025-06-16
+297,Improve API docs,Documentation,Medium,Done,2025-06-25
+298,Write README,Documentation,High,To Do,2025-06-21
+299,Write README,Documentation,High,To Do,2025-07-09
+300,Write README,Documentation,Low,In Progress,2025-07-03
+301,Schedule sprint planning,Meeting,Medium,Done,2025-06-29
+302,Schedule sprint planning,Meeting,Low,Done,2025-06-14
+303,Weekly sync-up,Meeting,Low,Done,2025-07-04
+304,Schedule sprint planning,Meeting,Low,To Do,2025-06-25
+305,Client presentation,Meeting,High,In Progress,2025-06-23
+306,Weekly sync-up,Meeting,Medium,To Do,2025-06-12
+307,Client presentation,Meeting,Low,To Do,2025-06-12
+308,Client presentation,Meeting,High,To Do,2025-06-28
+309,Weekly sync-up,Meeting,High,Done,2025-06-23
+310,Schedule sprint planning,Meeting,Low,Done,2025-06-27
+311,Schedule sprint planning,Meeting,High,Done,2025-06-29
+312,Schedule sprint planning,Meeting,Low,To Do,2025-06-27
+313,Weekly sync-up,Meeting,Low,To Do,2025-06-30
+314,Weekly sync-up,Meeting,Medium,To Do,2025-06-12
+315,Demo product roadmap,Meeting,Medium,Done,2025-07-11
+316,Demo product roadmap,Meeting,Medium,In Progress,2025-06-28
+317,Weekly sync-up,Meeting,Medium,Done,2025-07-11
+318,Client presentation,Meeting,High,To Do,2025-07-08
+319,Weekly sync-up,Meeting,Low,In Progress,2025-07-01
+320,Client presentation,Meeting,High,To Do,2025-06-27
+321,Demo product roadmap,Meeting,Low,To Do,2025-07-09
+322,Schedule sprint planning,Meeting,Low,In Progress,2025-07-09
+323,Weekly sync-up,Meeting,Medium,Done,2025-06-15
+324,Schedule sprint planning,Meeting,High,To Do,2025-06-20
+325,Schedule sprint planning,Meeting,Low,In Progress,2025-06-27
+326,Weekly sync-up,Meeting,Medium,Done,2025-07-03
+327,Demo product roadmap,Meeting,Low,To Do,2025-06-15
+328,Weekly sync-up,Meeting,High,Done,2025-07-08
+329,Client presentation,Meeting,Low,To Do,2025-06-25
+330,Demo product roadmap,Meeting,High,In Progress,2025-07-09
+331,Demo product roadmap,Meeting,High,To Do,2025-06-28
+332,Client presentation,Meeting,Medium,To Do,2025-07-02
+333,Schedule sprint planning,Meeting,High,Done,2025-06-17
+334,Weekly sync-up,Meeting,Low,To Do,2025-06-13
+335,Weekly sync-up,Meeting,Medium,To Do,2025-06-15
+336,Client presentation,Meeting,Low,Done,2025-06-15
+337,Schedule sprint planning,Meeting,Low,To Do,2025-06-14
+338,Client presentation,Meeting,Low,In Progress,2025-07-08
+339,Weekly sync-up,Meeting,Medium,Done,2025-06-20
+340,Weekly sync-up,Meeting,Low,In Progress,2025-06-28
+341,Weekly sync-up,Meeting,Low,In Progress,2025-06-29
+342,Demo product roadmap,Meeting,High,In Progress,2025-07-05
+343,Client presentation,Meeting,Low,In Progress,2025-06-20
+344,Schedule sprint planning,Meeting,Low,Done,2025-07-07
+345,Client presentation,Meeting,Medium,In Progress,2025-07-08
+346,Schedule sprint planning,Meeting,Low,To Do,2025-06-26
+347,Demo product roadmap,Meeting,High,To Do,2025-06-25
+348,Client presentation,Meeting,Low,Done,2025-06-27
+349,Client presentation,Meeting,Low,To Do,2025-06-30
+350,Weekly sync-up,Meeting,Medium,Done,2025-06-16
+351,Weekly sync-up,Meeting,Medium,In Progress,2025-07-05
+352,Schedule sprint planning,Meeting,High,To Do,2025-06-16
+353,Schedule sprint planning,Meeting,High,To Do,2025-06-26
+354,Demo product roadmap,Meeting,High,Done,2025-07-02
+355,Weekly sync-up,Meeting,High,To Do,2025-07-06
+356,Demo product roadmap,Meeting,Low,To Do,2025-06-21
+357,Schedule sprint planning,Meeting,Medium,In Progress,2025-07-01
+358,Client presentation,Meeting,Medium,To Do,2025-07-04
+359,Weekly sync-up,Meeting,High,Done,2025-06-24
+360,Schedule sprint planning,Meeting,High,To Do,2025-06-27
+361,Schedule sprint planning,Meeting,High,Done,2025-06-19
+362,Demo product roadmap,Meeting,Medium,Done,2025-06-22
+363,Schedule sprint planning,Meeting,High,In Progress,2025-07-06
+364,Client presentation,Meeting,High,Done,2025-06-27
+365,Schedule sprint planning,Meeting,Low,To Do,2025-06-18
+366,Weekly sync-up,Meeting,Low,Done,2025-06-13
+367,Demo product roadmap,Meeting,High,Done,2025-06-20
+368,Demo product roadmap,Meeting,Low,Done,2025-06-14
+369,Weekly sync-up,Meeting,Medium,Done,2025-06-26
+370,Client presentation,Meeting,Medium,To Do,2025-06-29
+371,Schedule sprint planning,Meeting,High,Done,2025-06-17
+372,Demo product roadmap,Meeting,Low,Done,2025-07-01
+373,Schedule sprint planning,Meeting,Low,Done,2025-07-01
+374,Demo product roadmap,Meeting,Medium,In Progress,2025-06-21
+375,Client presentation,Meeting,Low,In Progress,2025-07-10
+376,Weekly sync-up,Meeting,Low,To Do,2025-06-30
+377,Client presentation,Meeting,Medium,Done,2025-06-30
+378,Demo product roadmap,Meeting,Low,Done,2025-07-01
+379,Demo product roadmap,Meeting,Low,To Do,2025-07-08
+380,Schedule sprint planning,Meeting,High,To Do,2025-07-01
+381,Weekly sync-up,Meeting,Low,To Do,2025-06-20
+382,Demo product roadmap,Meeting,High,In Progress,2025-07-07
+383,Weekly sync-up,Meeting,Medium,Done,2025-06-12
+384,Client presentation,Meeting,High,In Progress,2025-06-25
+385,Schedule sprint planning,Meeting,Low,Done,2025-06-15
+386,Weekly sync-up,Meeting,High,Done,2025-07-09
+387,Weekly sync-up,Meeting,Low,In Progress,2025-07-10
+388,Schedule sprint planning,Meeting,High,To Do,2025-06-23
+389,Schedule sprint planning,Meeting,Low,In Progress,2025-06-30
+390,Client presentation,Meeting,Medium,In Progress,2025-06-12
+391,Client presentation,Meeting,High,In Progress,2025-06-27
+392,Demo product roadmap,Meeting,Medium,To Do,2025-07-03
+393,Weekly sync-up,Meeting,Low,To Do,2025-06-17
+394,Weekly sync-up,Meeting,High,To Do,2025-06-27
+395,Schedule sprint planning,Meeting,Low,Done,2025-06-20
+396,Schedule sprint planning,Meeting,Low,In Progress,2025-07-11
+397,Schedule sprint planning,Meeting,High,In Progress,2025-06-28
+398,Client presentation,Meeting,High,Done,2025-06-22
+399,Schedule sprint planning,Meeting,Medium,Done,2025-07-01
+400,Weekly sync-up,Meeting,Low,To Do,2025-06-30
+401,Read paper on LLMs,Research,Medium,Done,2025-07-05
+402,Compare cloud providers,Research,Medium,To Do,2025-07-02
+403,Benchmark database,Research,High,To Do,2025-06-24
+404,Compare cloud providers,Research,High,Done,2025-07-06
+405,Read paper on LLMs,Research,Medium,In Progress,2025-06-27
+406,Benchmark database,Research,High,In Progress,2025-06-27
+407,Compare cloud providers,Research,High,Done,2025-07-09
+408,Compare cloud providers,Research,Medium,To Do,2025-06-27
+409,Benchmark database,Research,Medium,Done,2025-07-09
+410,Read paper on LLMs,Research,High,In Progress,2025-06-22
+411,Read paper on LLMs,Research,Medium,In Progress,2025-06-19
+412,Benchmark database,Research,Medium,Done,2025-06-25
+413,Benchmark database,Research,Medium,To Do,2025-06-30
+414,Read paper on LLMs,Research,Low,In Progress,2025-06-17
+415,Explore new ML model,Research,Low,Done,2025-07-06
+416,Benchmark database,Research,Medium,Done,2025-06-29
+417,Benchmark database,Research,Low,In Progress,2025-06-28
+418,Explore new ML model,Research,Medium,Done,2025-07-06
+419,Explore new ML model,Research,High,To Do,2025-06-15
+420,Read paper on LLMs,Research,High,Done,2025-06-22
+421,Explore new ML model,Research,High,Done,2025-06-24
+422,Compare cloud providers,Research,Low,In Progress,2025-07-02
+423,Compare cloud providers,Research,Medium,Done,2025-06-27
+424,Benchmark database,Research,Low,In Progress,2025-06-27
+425,Explore new ML model,Research,High,To Do,2025-07-04
+426,Benchmark database,Research,Medium,Done,2025-06-30
+427,Compare cloud providers,Research,High,Done,2025-06-16
+428,Read paper on LLMs,Research,Medium,To Do,2025-07-08
+429,Benchmark database,Research,High,In Progress,2025-07-07
+430,Read paper on LLMs,Research,Low,Done,2025-06-28
+431,Compare cloud providers,Research,Medium,Done,2025-07-04
+432,Compare cloud providers,Research,High,To Do,2025-06-25
+433,Explore new ML model,Research,Medium,To Do,2025-07-06
+434,Benchmark database,Research,High,In Progress,2025-06-15
+435,Explore new ML model,Research,Medium,In Progress,2025-07-04
+436,Benchmark database,Research,Medium,To Do,2025-07-01
+437,Explore new ML model,Research,High,To Do,2025-07-03
+438,Benchmark database,Research,Low,To Do,2025-06-25
+439,Compare cloud providers,Research,Low,In Progress,2025-06-12
+440,Benchmark database,Research,Low,In Progress,2025-07-11
+441,Explore new ML model,Research,Medium,In Progress,2025-06-21
+442,Read paper on LLMs,Research,High,Done,2025-07-03
+443,Read paper on LLMs,Research,Medium,To Do,2025-07-09
+444,Compare cloud providers,Research,Medium,To Do,2025-06-26
+445,Explore new ML model,Research,Medium,In Progress,2025-06-25
+446,Explore new ML model,Research,High,In Progress,2025-06-15
+447,Benchmark database,Research,High,Done,2025-06-22
+448,Read paper on LLMs,Research,Medium,Done,2025-06-26
+449,Explore new ML model,Research,Medium,Done,2025-07-11
+450,Explore new ML model,Research,Medium,To Do,2025-07-02
+451,Compare cloud providers,Research,Medium,To Do,2025-06-12
+452,Read paper on LLMs,Research,High,Done,2025-06-26
+453,Read paper on LLMs,Research,Low,In Progress,2025-06-23
+454,Explore new ML model,Research,High,To Do,2025-06-19
+455,Benchmark database,Research,Low,To Do,2025-06-28
+456,Compare cloud providers,Research,High,In Progress,2025-06-12
+457,Compare cloud providers,Research,Low,Done,2025-07-06
+458,Explore new ML model,Research,High,In Progress,2025-06-17
+459,Compare cloud providers,Research,Medium,In Progress,2025-06-14
+460,Compare cloud providers,Research,Medium,Done,2025-07-10
+461,Explore new ML model,Research,Medium,To Do,2025-06-21
+462,Benchmark database,Research,High,In Progress,2025-06-14
+463,Benchmark database,Research,Low,Done,2025-07-09
+464,Read paper on LLMs,Research,High,In Progress,2025-07-08
+465,Read paper on LLMs,Research,High,To Do,2025-06-29
+466,Explore new ML model,Research,Medium,In Progress,2025-06-30
+467,Compare cloud providers,Research,Low,Done,2025-06-16
+468,Read paper on LLMs,Research,Medium,In Progress,2025-07-01
+469,Benchmark database,Research,High,Done,2025-06-16
+470,Explore new ML model,Research,Low,To Do,2025-07-01
+471,Read paper on LLMs,Research,Low,In Progress,2025-07-07
+472,Explore new ML model,Research,High,In Progress,2025-06-17
+473,Read paper on LLMs,Research,Medium,To Do,2025-07-03
+474,Read paper on LLMs,Research,Low,To Do,2025-06-17
+475,Compare cloud providers,Research,Medium,To Do,2025-07-05
+476,Explore new ML model,Research,High,In Progress,2025-06-26
+477,Explore new ML model,Research,Low,Done,2025-06-22
+478,Read paper on LLMs,Research,Low,In Progress,2025-06-25
+479,Compare cloud providers,Research,Low,To Do,2025-06-28
+480,Read paper on LLMs,Research,Medium,In Progress,2025-06-29
+481,Explore new ML model,Research,High,Done,2025-07-06
+482,Read paper on LLMs,Research,Low,Done,2025-06-12
+483,Compare cloud providers,Research,Medium,Done,2025-07-01
+484,Read paper on LLMs,Research,Medium,Done,2025-06-30
+485,Read paper on LLMs,Research,High,Done,2025-06-18
+486,Explore new ML model,Research,Low,In Progress,2025-06-25
+487,Benchmark database,Research,Low,In Progress,2025-06-22
+488,Explore new ML model,Research,High,Done,2025-06-16
+489,Benchmark database,Research,Low,Done,2025-06-22
+490,Compare cloud providers,Research,High,Done,2025-06-13
+491,Benchmark database,Research,High,To Do,2025-06-20
+492,Benchmark database,Research,High,In Progress,2025-06-12
+493,Benchmark database,Research,Low,Done,2025-06-15
+494,Compare cloud providers,Research,Medium,To Do,2025-06-16
+495,Benchmark database,Research,Low,Done,2025-06-13
+496,Explore new ML model,Research,High,To Do,2025-06-28
+497,Compare cloud providers,Research,Low,In Progress,2025-06-29
+498,Benchmark database,Research,High,To Do,2025-06-20
+499,Compare cloud providers,Research,High,To Do,2025-07-05
+500,Compare cloud providers,Research,Low,In Progress,2025-07-08
