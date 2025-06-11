@@ -9,7 +9,7 @@ from nltk.stem import PorterStemmer
 nltk.download('punkt')
 nltk.download('stopwords')
 
-df = pd.read_csv(r"C:\Users\mishr\OneDrive\Documents\Task_Management_System\learning\synthetic_tasks.csv")
+df = pd.read_csv(r"synthetic_tasks_500.csv")
 print(df)
 
 def clean_text(text):
