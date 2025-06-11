@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\mishr\OneDrive\Documents\Task_Management_System\learning\cleaned_tasks.csv")
+df = pd.read_csv(r"cleaned_tasks.csv")
 
 print(df.head())
 
