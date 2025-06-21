@@ -1,0 +1,330 @@
+task_id,task_text,category,priority,status,due_date,cleaned_text,tokens,token_no_stopwords,stemmed_tokens,text_length,due_days_left,urgency_flag,priority_binary,assigned_to,predicted_priority
+1,UI glitch in menu,Bug,Low,To Do,2025-06-26,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,4,0,0,Alice,0
+2,Fix login issue,Bug,High,To Do,2025-06-29,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,7,0,1,Charlie,1
+3,Null pointer error,Bug,Medium,To Do,2025-06-28,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,6,0,0,Charlie,0
+4,Resolve payment bug,Bug,Low,In Progress,2025-07-03,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,11,0,0,Diana,0
+5,Crash on launch,Bug,Medium,In Progress,2025-06-26,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,4,0,0,Alice,0
+8,Fix login issue,Bug,High,Done,2025-06-30,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,8,0,1,Diana,0
+9,Null pointer error,Bug,Medium,To Do,2025-06-30,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,8,0,0,Diana,0
+12,Crash on launch,Bug,High,To Do,2025-07-02,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,10,0,1,Bob,0
+13,UI glitch in menu,Bug,Low,In Progress,2025-07-06,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,14,0,0,Charlie,0
+14,Crash on launch,Bug,Low,Done,2025-06-30,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,8,0,0,Charlie,0
+15,Resolve payment bug,Bug,High,Done,2025-07-01,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,9,0,1,Diana,1
+16,UI glitch in menu,Bug,Low,To Do,2025-06-23,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,1,1,0,Charlie,0
+17,Fix login issue,Bug,High,To Do,2025-07-08,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,16,0,1,Diana,1
+19,Null pointer error,Bug,Medium,Done,2025-07-10,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,18,0,0,Diana,0
+21,UI glitch in menu,Bug,Low,In Progress,2025-07-01,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,9,0,0,Diana,0
+22,Null pointer error,Bug,High,Done,2025-07-09,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,17,0,1,Charlie,0
+23,UI glitch in menu,Bug,High,Done,2025-06-29,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,7,0,1,Diana,0
+26,Null pointer error,Bug,Medium,Done,2025-07-02,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,10,0,0,Diana,0
+28,Null pointer error,Bug,Low,Done,2025-06-29,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,7,0,0,Bob,0
+29,Fix login issue,Bug,Low,To Do,2025-07-11,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,19,0,0,Charlie,0
+30,Crash on launch,Bug,High,Done,2025-07-03,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,11,0,1,Charlie,1
+31,Crash on launch,Bug,Low,Done,2025-07-04,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,12,0,0,Alice,0
+32,Fix login issue,Bug,Low,In Progress,2025-07-08,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,16,0,0,Bob,0
+33,Crash on launch,Bug,Low,In Progress,2025-06-26,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,4,0,0,Bob,0
+34,Crash on launch,Bug,Low,To Do,2025-06-22,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,0,1,0,Diana,0
+35,UI glitch in menu,Bug,Low,To Do,2025-06-22,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,0,1,0,Charlie,0
+36,Null pointer error,Bug,Low,Done,2025-07-09,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,17,0,0,Bob,0
+38,Null pointer error,Bug,High,Done,2025-07-07,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,15,0,1,Charlie,1
+39,Null pointer error,Bug,Medium,In Progress,2025-06-28,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,6,0,0,Alice,0
+40,Crash on launch,Bug,Medium,In Progress,2025-07-07,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,15,0,0,Charlie,0
+41,Resolve payment bug,Bug,High,To Do,2025-06-27,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,5,0,1,Charlie,1
+42,Fix login issue,Bug,High,Done,2025-07-08,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,16,0,1,Diana,1
+44,Null pointer error,Bug,High,To Do,2025-07-04,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,12,0,1,Bob,1
+45,Fix login issue,Bug,Medium,To Do,2025-06-26,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,4,0,0,Diana,0
+46,UI glitch in menu,Bug,Low,To Do,2025-06-26,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,4,0,0,Charlie,0
+47,Null pointer error,Bug,Low,To Do,2025-07-04,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,12,0,0,Bob,1
+50,Fix login issue,Bug,Low,In Progress,2025-07-04,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,12,0,0,Charlie,0
+55,Crash on launch,Bug,Medium,In Progress,2025-07-09,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,17,0,0,Charlie,0
+56,Null pointer error,Bug,Low,Done,2025-06-26,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,4,0,0,Alice,0
+57,Crash on launch,Bug,High,Done,2025-06-29,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,7,0,1,Bob,0
+59,Fix login issue,Bug,High,In Progress,2025-07-06,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,14,0,1,Bob,1
+60,Resolve payment bug,Bug,High,In Progress,2025-06-25,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,3,0,1,Bob,0
+61,Crash on launch,Bug,High,To Do,2025-06-23,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,1,1,1,Alice,0
+62,Null pointer error,Bug,Low,In Progress,2025-07-06,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,14,0,0,Diana,1
+64,Resolve payment bug,Bug,Medium,In Progress,2025-07-03,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,11,0,0,Charlie,0
+65,Resolve payment bug,Bug,Medium,To Do,2025-07-04,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,12,0,0,Diana,1
+66,Crash on launch,Bug,Medium,Done,2025-07-10,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,18,0,0,Charlie,0
+67,Resolve payment bug,Bug,Low,Done,2025-07-08,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,16,0,0,Charlie,1
+69,Null pointer error,Bug,High,Done,2025-07-08,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,16,0,1,Bob,1
+72,Crash on launch,Bug,Medium,Done,2025-06-29,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,7,0,0,Charlie,0
+73,Resolve payment bug,Bug,Medium,In Progress,2025-07-07,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,15,0,0,Bob,0
+77,UI glitch in menu,Bug,Low,Done,2025-06-29,ui glitch in menu,"['ui', 'glitch', 'in', 'menu']","['ui', 'glitch', 'menu']","['ui', 'glitch', 'menu']",4,7,0,0,Alice,0
+79,Resolve payment bug,Bug,Low,To Do,2025-07-08,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,16,0,0,Alice,1
+80,Fix login issue,Bug,High,Done,2025-07-10,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,18,0,1,Diana,0
+81,Crash on launch,Bug,Low,In Progress,2025-06-25,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,3,0,0,Charlie,0
+83,Null pointer error,Bug,Medium,In Progress,2025-06-29,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,7,0,0,Alice,0
+85,Crash on launch,Bug,Low,In Progress,2025-06-27,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,5,0,0,Diana,0
+87,Crash on launch,Bug,High,To Do,2025-07-10,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,18,0,1,Charlie,0
+89,Resolve payment bug,Bug,High,In Progress,2025-07-05,resolve payment bug,"['resolve', 'payment', 'bug']","['resolve', 'payment', 'bug']","['resolv', 'payment', 'bug']",3,13,0,1,Charlie,1
+91,Null pointer error,Bug,Low,To Do,2025-06-28,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,6,0,0,Alice,0
+92,Crash on launch,Bug,Medium,Done,2025-06-28,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,6,0,0,Diana,0
+94,Null pointer error,Bug,Medium,To Do,2025-06-24,null pointer error,"['null', 'pointer', 'error']","['null', 'pointer', 'error']","['null', 'pointer', 'error']",3,2,1,0,Charlie,0
+95,Crash on launch,Bug,High,To Do,2025-07-06,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,14,0,1,Charlie,1
+97,Crash on launch,Bug,High,In Progress,2025-07-10,crash on launch,"['crash', 'on', 'launch']","['crash', 'launch']","['crash', 'launch']",3,18,0,1,Bob,0
+99,Fix login issue,Bug,Medium,Done,2025-06-26,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,4,0,0,Bob,0
+100,Fix login issue,Bug,Medium,Done,2025-07-10,fix login issue,"['fix', 'login', 'issue']","['fix', 'login', 'issue']","['fix', 'login', 'issu']",3,18,0,0,Bob,0
+101,Implement search filter,Feature,High,In Progress,2025-07-04,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,12,0,1,Alice,1
+102,Build notification system,Feature,Medium,To Do,2025-06-23,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,1,1,0,Charlie,0
+103,Build notification system,Feature,Medium,In Progress,2025-07-11,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,19,0,0,Bob,0
+104,Implement search filter,Feature,High,Done,2025-06-29,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,7,0,1,Alice,1
+105,Build notification system,Feature,High,In Progress,2025-06-24,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,2,1,1,Bob,0
+106,Integrate chat module,Feature,High,In Progress,2025-07-06,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,14,0,1,Alice,1
+107,Implement search filter,Feature,Medium,To Do,2025-07-06,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,14,0,0,Alice,0
+109,Build notification system,Feature,High,To Do,2025-07-02,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,10,0,1,Diana,0
+112,Implement search filter,Feature,Low,In Progress,2025-06-26,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,4,0,0,Diana,0
+113,Add dark mode,Feature,Low,To Do,2025-06-25,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,3,0,0,Bob,0
+114,Build notification system,Feature,Medium,In Progress,2025-07-07,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,15,0,0,Charlie,0
+116,Build notification system,Feature,Medium,To Do,2025-06-29,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,7,0,0,Diana,0
+117,Implement search filter,Feature,High,In Progress,2025-06-29,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,7,0,1,Charlie,0
+120,Integrate chat module,Feature,High,Done,2025-07-05,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,13,0,1,Diana,1
+125,Implement search filter,Feature,High,In Progress,2025-06-25,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,3,0,1,Alice,1
+127,Integrate chat module,Feature,High,Done,2025-06-30,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,8,0,1,Diana,1
+129,Build notification system,Feature,High,In Progress,2025-07-06,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,14,0,1,Diana,1
+130,Add dark mode,Feature,High,To Do,2025-06-27,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,5,0,1,Bob,1
+133,Implement search filter,Feature,High,In Progress,2025-07-01,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,9,0,1,Bob,0
+134,Add dark mode,Feature,Low,In Progress,2025-07-10,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,18,0,0,Bob,0
+135,Integrate chat module,Feature,Low,In Progress,2025-07-05,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,13,0,0,Alice,0
+136,Implement search filter,Feature,Medium,In Progress,2025-06-28,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,6,0,0,Alice,0
+137,Integrate chat module,Feature,High,To Do,2025-06-22,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,0,1,1,Charlie,0
+139,Add dark mode,Feature,High,Done,2025-07-05,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,13,0,1,Bob,1
+140,Build notification system,Feature,High,To Do,2025-07-07,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,15,0,1,Charlie,0
+141,Integrate chat module,Feature,High,In Progress,2025-07-02,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,10,0,1,Diana,1
+142,Integrate chat module,Feature,Low,In Progress,2025-06-24,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,2,1,0,Charlie,0
+143,Build notification system,Feature,High,To Do,2025-07-11,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,19,0,1,Charlie,0
+144,Build notification system,Feature,Medium,Done,2025-06-25,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,3,0,0,Bob,0
+145,Integrate chat module,Feature,Low,Done,2025-07-11,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,19,0,0,Diana,0
+146,Build notification system,Feature,Low,In Progress,2025-06-27,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,5,0,0,Charlie,0
+148,Build notification system,Feature,Low,To Do,2025-07-06,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,14,0,0,Alice,0
+150,Implement search filter,Feature,Low,In Progress,2025-07-10,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,18,0,0,Diana,0
+151,Implement search filter,Feature,High,Done,2025-06-30,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,8,0,1,Bob,1
+153,Build notification system,Feature,Medium,In Progress,2025-06-26,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,4,0,0,Diana,0
+155,Add dark mode,Feature,Low,In Progress,2025-07-08,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,16,0,0,Diana,0
+157,Implement search filter,Feature,Medium,To Do,2025-06-30,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,8,0,0,Diana,0
+160,Integrate chat module,Feature,Medium,In Progress,2025-07-05,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,13,0,0,Bob,0
+161,Implement search filter,Feature,Low,In Progress,2025-07-10,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,18,0,0,Bob,0
+163,Implement search filter,Feature,High,To Do,2025-07-06,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,14,0,1,Bob,0
+164,Integrate chat module,Feature,Medium,Done,2025-07-09,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,17,0,0,Diana,0
+165,Integrate chat module,Feature,Medium,Done,2025-07-11,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,19,0,0,Charlie,0
+166,Implement search filter,Feature,Medium,Done,2025-06-23,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,1,1,0,Bob,0
+168,Implement search filter,Feature,High,Done,2025-07-03,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,11,0,1,Charlie,1
+169,Build notification system,Feature,Low,Done,2025-07-02,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,10,0,0,Bob,1
+170,Add dark mode,Feature,Low,To Do,2025-07-11,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,19,0,0,Alice,0
+172,Add dark mode,Feature,Low,In Progress,2025-06-22,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,0,1,0,Diana,0
+173,Add dark mode,Feature,High,To Do,2025-06-24,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,2,1,1,Alice,1
+175,Add dark mode,Feature,Low,To Do,2025-07-08,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,16,0,0,Charlie,0
+176,Implement search filter,Feature,High,Done,2025-07-08,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,16,0,1,Diana,1
+177,Implement search filter,Feature,Low,In Progress,2025-06-23,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,1,1,0,Bob,0
+179,Build notification system,Feature,Low,To Do,2025-07-11,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,19,0,0,Bob,0
+180,Add dark mode,Feature,Low,In Progress,2025-07-03,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,11,0,0,Charlie,0
+182,Integrate chat module,Feature,Low,Done,2025-07-01,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,9,0,0,Diana,1
+183,Integrate chat module,Feature,High,In Progress,2025-07-02,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,10,0,1,Diana,1
+185,Integrate chat module,Feature,High,In Progress,2025-07-07,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,15,0,1,Alice,0
+186,Build notification system,Feature,Low,In Progress,2025-06-30,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,8,0,0,Bob,0
+188,Add dark mode,Feature,High,To Do,2025-07-08,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,16,0,1,Bob,0
+189,Add dark mode,Feature,Low,In Progress,2025-07-11,add dark mode,"['add', 'dark', 'mode']","['add', 'dark', 'mode']","['add', 'dark', 'mode']",3,19,0,0,Bob,0
+191,Implement search filter,Feature,Low,Done,2025-07-01,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,9,0,0,Diana,1
+192,Integrate chat module,Feature,High,Done,2025-07-01,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,9,0,1,Bob,1
+193,Integrate chat module,Feature,Low,Done,2025-06-26,integrate chat module,"['integrate', 'chat', 'module']","['integrate', 'chat', 'module']","['integr', 'chat', 'modul']",3,4,0,0,Diana,0
+194,Implement search filter,Feature,Medium,To Do,2025-07-05,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,13,0,0,Diana,0
+196,Build notification system,Feature,Low,In Progress,2025-06-28,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,6,0,0,Charlie,0
+197,Implement search filter,Feature,Low,To Do,2025-06-23,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,1,1,0,Alice,0
+198,Build notification system,Feature,High,Done,2025-06-30,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,8,0,1,Alice,1
+199,Implement search filter,Feature,Medium,Done,2025-06-23,implement search filter,"['implement', 'search', 'filter']","['implement', 'search', 'filter']","['implement', 'search', 'filter']",3,1,1,0,Bob,0
+200,Build notification system,Feature,Medium,To Do,2025-06-22,build notification system,"['build', 'notification', 'system']","['build', 'notification', 'system']","['build', 'notif', 'system']",3,0,1,0,Diana,0
+201,Document new features,Documentation,Low,To Do,2025-07-05,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,13,0,0,Charlie,0
+202,Document new features,Documentation,Medium,To Do,2025-07-02,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,10,0,0,Charlie,0
+207,Update user manual,Documentation,High,To Do,2025-06-24,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,2,1,1,Alice,0
+209,Update user manual,Documentation,High,Done,2025-07-04,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,12,0,1,Alice,1
+211,Document new features,Documentation,Low,To Do,2025-06-24,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,2,1,0,Alice,0
+212,Improve API docs,Documentation,Low,To Do,2025-06-27,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,5,0,0,Charlie,0
+213,Improve API docs,Documentation,Medium,In Progress,2025-06-25,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,3,0,0,Alice,0
+215,Update user manual,Documentation,Low,To Do,2025-07-08,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,16,0,0,Alice,0
+217,Write README,Documentation,Low,Done,2025-07-07,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,15,0,0,Charlie,0
+220,Document new features,Documentation,Medium,In Progress,2025-06-30,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,8,0,0,Diana,1
+222,Write README,Documentation,High,To Do,2025-06-29,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,7,0,1,Diana,1
+224,Write README,Documentation,Medium,In Progress,2025-07-02,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,10,0,0,Bob,1
+228,Write README,Documentation,High,To Do,2025-06-29,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,7,0,1,Diana,1
+230,Document new features,Documentation,Medium,In Progress,2025-06-29,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,7,0,0,Bob,1
+231,Update user manual,Documentation,High,Done,2025-07-06,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,14,0,1,Bob,1
+234,Document new features,Documentation,High,Done,2025-06-25,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,3,0,1,Alice,0
+236,Update user manual,Documentation,High,In Progress,2025-06-30,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,8,0,1,Alice,1
+238,Update user manual,Documentation,Low,To Do,2025-07-01,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,9,0,0,Diana,0
+239,Improve API docs,Documentation,Low,To Do,2025-06-23,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,1,1,0,Alice,0
+240,Improve API docs,Documentation,High,In Progress,2025-07-06,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,14,0,1,Charlie,1
+241,Update user manual,Documentation,Medium,Done,2025-06-25,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,3,0,0,Alice,0
+247,Improve API docs,Documentation,High,In Progress,2025-06-29,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,7,0,1,Charlie,1
+250,Document new features,Documentation,High,To Do,2025-07-06,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,14,0,1,Diana,0
+251,Improve API docs,Documentation,Low,In Progress,2025-07-11,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,19,0,0,Diana,0
+252,Update user manual,Documentation,High,To Do,2025-06-30,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,8,0,1,Bob,1
+253,Write README,Documentation,Medium,Done,2025-07-11,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,19,0,0,Alice,0
+254,Document new features,Documentation,Medium,In Progress,2025-07-11,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,19,0,0,Alice,0
+255,Update user manual,Documentation,Medium,In Progress,2025-06-25,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,3,0,0,Diana,0
+257,Write README,Documentation,Low,To Do,2025-06-25,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,3,0,0,Charlie,0
+258,Update user manual,Documentation,Medium,In Progress,2025-07-03,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,11,0,0,Alice,1
+259,Update user manual,Documentation,Medium,In Progress,2025-07-05,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,13,0,0,Alice,1
+260,Write README,Documentation,High,In Progress,2025-07-01,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,9,0,1,Charlie,1
+261,Update user manual,Documentation,Low,To Do,2025-06-28,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,6,0,0,Bob,0
+262,Update user manual,Documentation,High,In Progress,2025-06-22,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,0,1,1,Charlie,1
+263,Write README,Documentation,High,To Do,2025-07-11,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,19,0,1,Diana,1
+269,Update user manual,Documentation,Medium,Done,2025-07-07,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,15,0,0,Bob,1
+270,Write README,Documentation,Medium,Done,2025-06-28,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,6,0,0,Bob,0
+271,Improve API docs,Documentation,High,In Progress,2025-07-09,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,17,0,1,Diana,1
+272,Document new features,Documentation,High,To Do,2025-07-05,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,13,0,1,Diana,0
+274,Improve API docs,Documentation,High,In Progress,2025-06-22,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,0,1,1,Alice,1
+275,Document new features,Documentation,Low,To Do,2025-07-06,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,14,0,0,Charlie,0
+278,Document new features,Documentation,High,In Progress,2025-07-11,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,19,0,1,Bob,0
+280,Update user manual,Documentation,Medium,To Do,2025-07-01,update user manual,"['update', 'user', 'manual']","['update', 'user', 'manual']","['updat', 'user', 'manual']",3,9,0,0,Charlie,0
+281,Improve API docs,Documentation,Low,In Progress,2025-06-26,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,4,0,0,Diana,1
+282,Document new features,Documentation,Low,Done,2025-07-09,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,17,0,0,Diana,0
+285,Improve API docs,Documentation,High,Done,2025-07-07,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,15,0,1,Bob,1
+288,Write README,Documentation,Low,Done,2025-07-09,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,17,0,0,Charlie,0
+290,Document new features,Documentation,High,In Progress,2025-06-26,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,4,0,1,Bob,1
+292,Document new features,Documentation,Low,To Do,2025-07-03,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,11,0,0,Alice,0
+294,Write README,Documentation,High,Done,2025-07-10,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,18,0,1,Alice,1
+295,Document new features,Documentation,Low,To Do,2025-07-10,document new features,"['document', 'new', 'features']","['document', 'new', 'features']","['document', 'new', 'featur']",3,18,0,0,Bob,0
+297,Improve API docs,Documentation,Medium,Done,2025-06-25,improve api docs,"['improve', 'api', 'docs']","['improve', 'api', 'docs']","['improv', 'api', 'doc']",3,3,0,0,Alice,0
+299,Write README,Documentation,High,To Do,2025-07-09,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,17,0,1,Charlie,1
+300,Write README,Documentation,Low,In Progress,2025-07-03,write readme,"['write', 'readme']","['write', 'readme']","['write', 'readm']",2,11,0,0,Charlie,0
+301,Schedule sprint planning,Meeting,Medium,Done,2025-06-29,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,7,0,0,Alice,0
+303,Weekly sync-up,Meeting,Low,Done,2025-07-04,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,12,0,0,Alice,0
+304,Schedule sprint planning,Meeting,Low,To Do,2025-06-25,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,3,0,0,Diana,1
+305,Client presentation,Meeting,High,In Progress,2025-06-23,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,1,1,1,Charlie,1
+308,Client presentation,Meeting,High,To Do,2025-06-28,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,6,0,1,Charlie,1
+309,Weekly sync-up,Meeting,High,Done,2025-06-23,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,1,1,1,Bob,1
+310,Schedule sprint planning,Meeting,Low,Done,2025-06-27,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,5,0,0,Charlie,0
+311,Schedule sprint planning,Meeting,High,Done,2025-06-29,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,7,0,1,Charlie,0
+312,Schedule sprint planning,Meeting,Low,To Do,2025-06-27,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,5,0,0,Alice,1
+313,Weekly sync-up,Meeting,Low,To Do,2025-06-30,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,8,0,0,Charlie,0
+315,Demo product roadmap,Meeting,Medium,Done,2025-07-11,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,19,0,0,Diana,0
+316,Demo product roadmap,Meeting,Medium,In Progress,2025-06-28,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,6,0,0,Charlie,0
+317,Weekly sync-up,Meeting,Medium,Done,2025-07-11,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,19,0,0,Diana,0
+318,Client presentation,Meeting,High,To Do,2025-07-08,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,16,0,1,Charlie,1
+319,Weekly sync-up,Meeting,Low,In Progress,2025-07-01,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,9,0,0,Charlie,0
+320,Client presentation,Meeting,High,To Do,2025-06-27,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,5,0,1,Diana,1
+321,Demo product roadmap,Meeting,Low,To Do,2025-07-09,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,17,0,0,Bob,0
+322,Schedule sprint planning,Meeting,Low,In Progress,2025-07-09,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,17,0,0,Charlie,0
+325,Schedule sprint planning,Meeting,Low,In Progress,2025-06-27,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,5,0,0,Bob,0
+326,Weekly sync-up,Meeting,Medium,Done,2025-07-03,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,11,0,0,Bob,0
+328,Weekly sync-up,Meeting,High,Done,2025-07-08,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,16,0,1,Charlie,1
+329,Client presentation,Meeting,Low,To Do,2025-06-25,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,3,0,0,Bob,0
+330,Demo product roadmap,Meeting,High,In Progress,2025-07-09,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,17,0,1,Charlie,0
+331,Demo product roadmap,Meeting,High,To Do,2025-06-28,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,6,0,1,Bob,1
+332,Client presentation,Meeting,Medium,To Do,2025-07-02,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,10,0,0,Alice,0
+338,Client presentation,Meeting,Low,In Progress,2025-07-08,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,16,0,0,Charlie,0
+340,Weekly sync-up,Meeting,Low,In Progress,2025-06-28,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,6,0,0,Alice,0
+341,Weekly sync-up,Meeting,Low,In Progress,2025-06-29,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,7,0,0,Alice,0
+342,Demo product roadmap,Meeting,High,In Progress,2025-07-05,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,13,0,1,Bob,1
+344,Schedule sprint planning,Meeting,Low,Done,2025-07-07,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,15,0,0,Charlie,0
+345,Client presentation,Meeting,Medium,In Progress,2025-07-08,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,16,0,0,Diana,0
+346,Schedule sprint planning,Meeting,Low,To Do,2025-06-26,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,4,0,0,Charlie,1
+347,Demo product roadmap,Meeting,High,To Do,2025-06-25,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,3,0,1,Bob,1
+348,Client presentation,Meeting,Low,Done,2025-06-27,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,5,0,0,Diana,0
+349,Client presentation,Meeting,Low,To Do,2025-06-30,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,8,0,0,Alice,0
+351,Weekly sync-up,Meeting,Medium,In Progress,2025-07-05,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,13,0,0,Alice,0
+353,Schedule sprint planning,Meeting,High,To Do,2025-06-26,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,4,0,1,Alice,1
+354,Demo product roadmap,Meeting,High,Done,2025-07-02,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,10,0,1,Charlie,1
+355,Weekly sync-up,Meeting,High,To Do,2025-07-06,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,14,0,1,Charlie,1
+357,Schedule sprint planning,Meeting,Medium,In Progress,2025-07-01,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,9,0,0,Charlie,0
+358,Client presentation,Meeting,Medium,To Do,2025-07-04,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,12,0,0,Alice,0
+359,Weekly sync-up,Meeting,High,Done,2025-06-24,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,2,1,1,Bob,1
+360,Schedule sprint planning,Meeting,High,To Do,2025-06-27,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,5,0,1,Diana,1
+362,Demo product roadmap,Meeting,Medium,Done,2025-06-22,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,0,1,0,Diana,0
+363,Schedule sprint planning,Meeting,High,In Progress,2025-07-06,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,14,0,1,Diana,1
+364,Client presentation,Meeting,High,Done,2025-06-27,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,5,0,1,Alice,0
+369,Weekly sync-up,Meeting,Medium,Done,2025-06-26,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,4,0,0,Bob,0
+370,Client presentation,Meeting,Medium,To Do,2025-06-29,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,7,0,0,Alice,0
+372,Demo product roadmap,Meeting,Low,Done,2025-07-01,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,9,0,0,Diana,0
+373,Schedule sprint planning,Meeting,Low,Done,2025-07-01,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,9,0,0,Bob,0
+375,Client presentation,Meeting,Low,In Progress,2025-07-10,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,18,0,0,Charlie,0
+376,Weekly sync-up,Meeting,Low,To Do,2025-06-30,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,8,0,0,Diana,0
+377,Client presentation,Meeting,Medium,Done,2025-06-30,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,8,0,0,Diana,0
+378,Demo product roadmap,Meeting,Low,Done,2025-07-01,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,9,0,0,Charlie,0
+379,Demo product roadmap,Meeting,Low,To Do,2025-07-08,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,16,0,0,Alice,0
+380,Schedule sprint planning,Meeting,High,To Do,2025-07-01,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,9,0,1,Charlie,1
+382,Demo product roadmap,Meeting,High,In Progress,2025-07-07,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,15,0,1,Diana,1
+384,Client presentation,Meeting,High,In Progress,2025-06-25,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,3,0,1,Bob,1
+386,Weekly sync-up,Meeting,High,Done,2025-07-09,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,17,0,1,Bob,1
+387,Weekly sync-up,Meeting,Low,In Progress,2025-07-10,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,18,0,0,Diana,0
+388,Schedule sprint planning,Meeting,High,To Do,2025-06-23,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,1,1,1,Diana,1
+389,Schedule sprint planning,Meeting,Low,In Progress,2025-06-30,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,8,0,0,Alice,0
+391,Client presentation,Meeting,High,In Progress,2025-06-27,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,5,0,1,Alice,0
+392,Demo product roadmap,Meeting,Medium,To Do,2025-07-03,demo product roadmap,"['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']","['demo', 'product', 'roadmap']",3,11,0,0,Alice,0
+394,Weekly sync-up,Meeting,High,To Do,2025-06-27,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,5,0,1,Bob,1
+396,Schedule sprint planning,Meeting,Low,In Progress,2025-07-11,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,19,0,0,Charlie,0
+397,Schedule sprint planning,Meeting,High,In Progress,2025-06-28,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,6,0,1,Charlie,0
+398,Client presentation,Meeting,High,Done,2025-06-22,client presentation,"['client', 'presentation']","['client', 'presentation']","['client', 'present']",2,0,1,1,Alice,1
+399,Schedule sprint planning,Meeting,Medium,Done,2025-07-01,schedule sprint planning,"['schedule', 'sprint', 'planning']","['schedule', 'sprint', 'planning']","['schedul', 'sprint', 'plan']",3,9,0,0,Alice,0
+400,Weekly sync-up,Meeting,Low,To Do,2025-06-30,weekly syncup,"['weekly', 'syncup']","['weekly', 'syncup']","['weekli', 'syncup']",2,8,0,0,Diana,0
+401,Read paper on LLMs,Research,Medium,Done,2025-07-05,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,13,0,0,Charlie,0
+402,Compare cloud providers,Research,Medium,To Do,2025-07-02,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,10,0,0,Diana,0
+403,Benchmark database,Research,High,To Do,2025-06-24,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,2,1,1,Diana,0
+404,Compare cloud providers,Research,High,Done,2025-07-06,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,14,0,1,Diana,0
+405,Read paper on LLMs,Research,Medium,In Progress,2025-06-27,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,5,0,0,Alice,0
+406,Benchmark database,Research,High,In Progress,2025-06-27,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,5,0,1,Bob,0
+407,Compare cloud providers,Research,High,Done,2025-07-09,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,17,0,1,Diana,1
+408,Compare cloud providers,Research,Medium,To Do,2025-06-27,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,5,0,0,Alice,0
+409,Benchmark database,Research,Medium,Done,2025-07-09,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,17,0,0,Diana,0
+410,Read paper on LLMs,Research,High,In Progress,2025-06-22,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,0,1,1,Alice,1
+412,Benchmark database,Research,Medium,Done,2025-06-25,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,3,0,0,Diana,0
+413,Benchmark database,Research,Medium,To Do,2025-06-30,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,8,0,0,Charlie,0
+415,Explore new ML model,Research,Low,Done,2025-07-06,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,14,0,0,Charlie,0
+416,Benchmark database,Research,Medium,Done,2025-06-29,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,7,0,0,Diana,0
+417,Benchmark database,Research,Low,In Progress,2025-06-28,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,6,0,0,Alice,0
+418,Explore new ML model,Research,Medium,Done,2025-07-06,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,14,0,0,Alice,0
+420,Read paper on LLMs,Research,High,Done,2025-06-22,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,0,1,1,Charlie,0
+421,Explore new ML model,Research,High,Done,2025-06-24,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,2,1,1,Charlie,0
+422,Compare cloud providers,Research,Low,In Progress,2025-07-02,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,10,0,0,Diana,0
+423,Compare cloud providers,Research,Medium,Done,2025-06-27,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,5,0,0,Alice,0
+424,Benchmark database,Research,Low,In Progress,2025-06-27,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,5,0,0,Bob,0
+425,Explore new ML model,Research,High,To Do,2025-07-04,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,12,0,1,Diana,1
+426,Benchmark database,Research,Medium,Done,2025-06-30,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,8,0,0,Alice,0
+428,Read paper on LLMs,Research,Medium,To Do,2025-07-08,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,16,0,0,Alice,0
+429,Benchmark database,Research,High,In Progress,2025-07-07,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,15,0,1,Diana,1
+430,Read paper on LLMs,Research,Low,Done,2025-06-28,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,6,0,0,Charlie,0
+431,Compare cloud providers,Research,Medium,Done,2025-07-04,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,12,0,0,Diana,0
+432,Compare cloud providers,Research,High,To Do,2025-06-25,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,3,0,1,Alice,1
+433,Explore new ML model,Research,Medium,To Do,2025-07-06,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,14,0,0,Bob,0
+435,Explore new ML model,Research,Medium,In Progress,2025-07-04,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,12,0,0,Diana,0
+436,Benchmark database,Research,Medium,To Do,2025-07-01,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,9,0,0,Diana,0
+437,Explore new ML model,Research,High,To Do,2025-07-03,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,11,0,1,Charlie,0
+438,Benchmark database,Research,Low,To Do,2025-06-25,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,3,0,0,Charlie,0
+440,Benchmark database,Research,Low,In Progress,2025-07-11,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,19,0,0,Bob,0
+442,Read paper on LLMs,Research,High,Done,2025-07-03,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,11,0,1,Charlie,1
+443,Read paper on LLMs,Research,Medium,To Do,2025-07-09,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,17,0,0,Charlie,0
+444,Compare cloud providers,Research,Medium,To Do,2025-06-26,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,4,0,0,Alice,0
+445,Explore new ML model,Research,Medium,In Progress,2025-06-25,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,3,0,0,Charlie,0
+447,Benchmark database,Research,High,Done,2025-06-22,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,0,1,1,Alice,0
+448,Read paper on LLMs,Research,Medium,Done,2025-06-26,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,4,0,0,Diana,1
+449,Explore new ML model,Research,Medium,Done,2025-07-11,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,19,0,0,Diana,0
+450,Explore new ML model,Research,Medium,To Do,2025-07-02,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,10,0,0,Bob,0
+452,Read paper on LLMs,Research,High,Done,2025-06-26,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,4,0,1,Charlie,1
+453,Read paper on LLMs,Research,Low,In Progress,2025-06-23,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,1,1,0,Bob,1
+455,Benchmark database,Research,Low,To Do,2025-06-28,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,6,0,0,Alice,0
+457,Compare cloud providers,Research,Low,Done,2025-07-06,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,14,0,0,Diana,0
+460,Compare cloud providers,Research,Medium,Done,2025-07-10,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,18,0,0,Alice,0
+463,Benchmark database,Research,Low,Done,2025-07-09,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,17,0,0,Charlie,0
+464,Read paper on LLMs,Research,High,In Progress,2025-07-08,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,16,0,1,Alice,1
+465,Read paper on LLMs,Research,High,To Do,2025-06-29,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,7,0,1,Bob,1
+466,Explore new ML model,Research,Medium,In Progress,2025-06-30,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,8,0,0,Alice,0
+468,Read paper on LLMs,Research,Medium,In Progress,2025-07-01,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,9,0,0,Charlie,0
+470,Explore new ML model,Research,Low,To Do,2025-07-01,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,9,0,0,Bob,0
+471,Read paper on LLMs,Research,Low,In Progress,2025-07-07,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,15,0,0,Alice,0
+473,Read paper on LLMs,Research,Medium,To Do,2025-07-03,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,11,0,0,Diana,0
+475,Compare cloud providers,Research,Medium,To Do,2025-07-05,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,13,0,0,Diana,0
+476,Explore new ML model,Research,High,In Progress,2025-06-26,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,4,0,1,Diana,0
+477,Explore new ML model,Research,Low,Done,2025-06-22,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,0,1,0,Alice,0
+478,Read paper on LLMs,Research,Low,In Progress,2025-06-25,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,3,0,0,Charlie,0
+479,Compare cloud providers,Research,Low,To Do,2025-06-28,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,6,0,0,Charlie,0
+480,Read paper on LLMs,Research,Medium,In Progress,2025-06-29,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,7,0,0,Bob,0
+481,Explore new ML model,Research,High,Done,2025-07-06,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,14,0,1,Bob,0
+483,Compare cloud providers,Research,Medium,Done,2025-07-01,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,9,0,0,Alice,0
+484,Read paper on LLMs,Research,Medium,Done,2025-06-30,read paper on llms,"['read', 'paper', 'on', 'llms']","['read', 'paper', 'llms']","['read', 'paper', 'llm']",4,8,0,0,Alice,0
+486,Explore new ML model,Research,Low,In Progress,2025-06-25,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,3,0,0,Alice,0
+487,Benchmark database,Research,Low,In Progress,2025-06-22,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,0,1,0,Bob,0
+489,Benchmark database,Research,Low,Done,2025-06-22,benchmark database,"['benchmark', 'database']","['benchmark', 'database']","['benchmark', 'databas']",2,0,1,0,Charlie,0
+496,Explore new ML model,Research,High,To Do,2025-06-28,explore new ml model,"['explore', 'new', 'ml', 'model']","['explore', 'new', 'ml', 'model']","['explor', 'new', 'ml', 'model']",4,6,0,1,Diana,1
+497,Compare cloud providers,Research,Low,In Progress,2025-06-29,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,7,0,0,Bob,0
+499,Compare cloud providers,Research,High,To Do,2025-07-05,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,13,0,1,Charlie,0
+500,Compare cloud providers,Research,Low,In Progress,2025-07-08,compare cloud providers,"['compare', 'cloud', 'providers']","['compare', 'cloud', 'providers']","['compar', 'cloud', 'provid']",3,16,0,0,Alice,0
